@@ -539,25 +539,13 @@ Upwork-Auto-Jobs-Applier-using-AI/
 
 **Pricing**: With the free plan you can do about 5 runs
 
-## Contributing
-
-Contributions are welcome! Areas for improvement:
-- Add support for other freelance platforms
-- Implement parallel batch processing
-- Create web UI for configuration
-- Add job deduplication across runs
-- Improve Cloudflare bypass reliability
-
-## License
-
-MIT License - feel free to use and modify for your freelance journey!
-
 ## Credits
 
 This project is a fork of [Upwork-Auto-Jobs-Applier-using-AI](https://github.com/AIXerum/Upwork-Auto-Jobs-Applier-using-AI) by [AIXerum](https://github.com/AIXerum).
 
 **Major enhancements in this fork:**
 - Multi-page scraping (5-10+ pages vs. original 1 page)
+- Full search page URL
 - Intelligent batch classification to handle 250-500+ jobs
 - Timestamped folder organization (no more overwrites)
 - Enhanced progress tracking and logging
