@@ -1,0 +1,237 @@
+
+======================================================================
+MATCHED JOBS - Found 11 matches
+Date: 2025-10-23 13:30:50
+======================================================================
+
+MATCH #1
+----------------------------------------------------------------------
+
+📌 Title:
+   Full‑Stack & API Automation Expert for Email Automation Project
+
+🔗 Link:
+   https://www.upwork.com/jobs/Full-Stack-amp-span-class-highlight-API-span-Automation-Expert-for-Email-Automation-nbsp-Project_~021981297461572227030/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Expert
+💰 Budget: Est. budget:
+$10.00
+
+📝 Description:
+We are seeking an experienced Full-Stack & API Automation Expert to lead our Email Automation Project. The ideal candidate will have a strong background in developing and integrating APIs to automate email processes efficiently.
+
+✅ Match Reason:
+The freelancer is a Node.js full-stack developer with strong API integration and automation skills, making them well-suited for developing and integrating APIs for email automation projects.
+======================================================================
+
+MATCH #2
+----------------------------------------------------------------------
+
+📌 Title:
+   Critical Fixes & Stabilization
+
+🔗 Link:
+   https://www.upwork.com/jobs/Critical-span-class-highlight-Fixes-span-amp-Stabilization_~021981293844278628310/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Intermediate
+💰 Budget: Est. budget:
+$10.00
+
+📝 Description:
+We need an experienced full-stack developer to perform critical fixes and stabilize our MVP web application. The goal is to ensure reliable performance, smooth API integration, and consistent functionality before moving on to new features.
+
+✅ Match Reason:
+As a Node.js full-stack developer with experience in robust backend services and API integration, the freelancer is well-equipped to perform critical fixes and stabilize a web application.
+======================================================================
+
+MATCH #3
+----------------------------------------------------------------------
+
+📌 Title:
+   Primavera Rest API Integration expert needed
+
+🔗 Link:
+   https://www.upwork.com/jobs/Primavera-Rest-span-class-highlight-API-span-span-class-highlight-Integration-span-expert-needed_~021981293781099578873/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Intermediate
+💰 Budget: Est. budget:
+$100,000.00
+
+📝 Description:
+I need someone to build an integration between Primavera OPC and Primavera Unifier. There is an additional piece of work following this that automates importing xmls into a P6 cloud environment
+
+✅ Match Reason:
+The freelancer specializes in complex API integration, which is the core requirement for integrating Primavera OPC and Unifier via their REST APIs, aligning perfectly with their backend expertise.
+======================================================================
+
+MATCH #4
+----------------------------------------------------------------------
+
+📌 Title:
+   Web Application Setup with Google Cloud and AI Integration
+
+🔗 Link:
+   https://www.upwork.com/jobs/Web-Application-Setup-with-Google-Cloud-and-span-class-highlight-Integration-span_~021981290274538774177/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly: $20.00 - $29.00
+⭐ Experience Level: Expert
+💰 Budget: Est. time:
+1 to 3 months, Less than 30 hrs/week
+
+📝 Description:
+We are seeking a skilled developer to configure and set up our web application using GitHub, Firebase, Firestore, and Google Cloud. The ideal candidate should also be familiar with Google AI Studio and integrating AI functions within applications, specifically focusing on natural language processing. The project needs to be completed within a month.
+
+✅ Match Reason:
+The freelancer is a full-stack developer with strong API integration experience (including Gemini), making them capable of setting up a web application and integrating AI functions, even if the specific cloud/database differs from their primary stack.
+======================================================================
+
+MATCH #5
+----------------------------------------------------------------------
+
+📌 Title:
+   Full Stack Developer - SaaS app
+
+🔗 Link:
+   https://www.upwork.com/jobs/Full-Stack-Developer-SaaS-app_~021981289600377110222/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly: $15.00 - $80.00
+⭐ Experience Level: Expert
+💰 Budget: Est. time:
+More than 6 months, 30+ hrs/week
+
+📝 Description:
+We're looking to build PseudoAI, an AI induced Web application with dozens of high value features giving us an edge in the market. We're looking for an expert Full Stack SAAS developer who can make this a reality.
+
+✅ Match Reason:
+The freelancer is a Node.js full-stack developer focused on robust, data-driven websites and scalable backend services, which aligns perfectly with building an AI-induced SaaS web application.
+======================================================================
+
+MATCH #6
+----------------------------------------------------------------------
+
+📌 Title:
+   Developer needed to build online tool with backend admin
+
+🔗 Link:
+   https://www.upwork.com/jobs/Developer-needed-build-online-tool-with-span-class-highlight-backend-span-admin_~021981287442978127566/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly: $5.00 - $10.00
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+1 to 3 months, Less than 30 hrs/week
+
+📝 Description:
+I have an excel spreadsheet that I'd like to convert into an online tool that requires a log in with admin and user features.
+
+✅ Match Reason:
+The freelancer's expertise in Node.js, Express.js, and PostgreSQL for building data-driven websites with backend services makes them an excellent fit for converting an Excel sheet into an online tool with login and admin features.
+======================================================================
+
+MATCH #7
+----------------------------------------------------------------------
+
+📌 Title:
+   AWS EC2 Database and File Updates
+
+🔗 Link:
+   https://www.upwork.com/jobs/AWS-EC2-Database-and-File-Updates_~021981280452678377121/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly: $15.00 - $30.00
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+📝 Description:
+We are seeking a skilled freelancer to update databases, files, and recompile changes to a website hosted on AWS EC2. The ideal candidate will have experience with AWS services and be able to efficiently manage and update database and file systems.
+
+✅ Match Reason:
+The freelancer's backend development and PostgreSQL experience make them capable of updating databases and files on an AWS EC2 instance, which is a standard task for a backend developer.
+======================================================================
+
+MATCH #8
+----------------------------------------------------------------------
+
+📌 Title:
+   Integrate Square POS Loyalty API with Shopify Loyalty Program
+
+🔗 Link:
+   https://www.upwork.com/jobs/span-class-highlight-Integrate-span-Square-POS-Loyalty-span-class-highlight-API-span-with-Shopify-Loyalty-Program_~021981272656691977889/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly: $12.00 - $55.00
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+📝 Description:
+We are seeking a skilled developer to integrate the Square POS loyalty API with our Shopify loyalty program. The goal is to ensure seamless operation of the loyalty program across both platforms, enhancing customer experience and loyalty tracking.
+
+✅ Match Reason:
+The freelancer has proven experience in consuming and integrating complex external APIs, which is the primary skill required for integrating Square POS and Shopify loyalty APIs.
+======================================================================
+
+MATCH #9
+----------------------------------------------------------------------
+
+📌 Title:
+   AI Call Agent Developer | Turkish ASR , TTS, Conversational AI, SIP PBX Integration
+
+🔗 Link:
+   https://www.upwork.com/jobs/Call-Agent-Developer-Turkish-ASR-TTS-Conversational-SIP-PBX-span-class-highlight-Integration-span_~021981262878469119649/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+📝 Description:
+Hello, A project is being developed to create AI-powered voice bots for over-the-phone appointment booking and complaint-handling scenarios. The goal is to migrate the existing system to offline models with full Turkish ASR (Automatic Speech Recognition) and TTS (Text-to-Speech) support. Key focus areas include: 1. Offline / local model deployment 2. Turkish ASR (Automatic Speech Recognition) and TTS (Text-to-Speech) 3. Appointment booking and tool-execution features 4. with Asterisk or FreeSWIT...
+
+✅ Match Reason:
+The freelancer's strong API integration and backend development skills are highly relevant for integrating AI models with SIP PBX systems for voice bots, aligning with their experience in complex server-side problems.
+======================================================================
+
+MATCH #10
+----------------------------------------------------------------------
+
+📌 Title:
+   Proficient, trustworthy AI integrators and automation specialists
+
+🔗 Link:
+   https://www.upwork.com/jobs/Proficient-trustworthy-span-class-highlight-integrators-span-and-automation-specialists_~021981250427234125305/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly
+⭐ Experience Level: Expert
+💰 Budget: Est. time:
+More than 6 months, Not sure
+
+📝 Description:
+Hi, my name is Chris. I own a digital marketing business that’s now expanding into AI automation for niche industries, starting with chiropractors. We’re preparing to launch our marketing phase and are seeking a reliable AI automation expert to partner with who can install and configure our full AI Infrastructure System within a 96-hour (4-day) window per client. Our system includes at least eight core automations: No-Show & Appointment Management Patient Retention & Recall Lead Capture & Follow...
+
+✅ Match Reason:
+The freelancer's key skills include API integration and automation, and their project involves data analysis/predictions, making them suitable for deploying and configuring AI infrastructure systems.
+======================================================================
+
+MATCH #11
+----------------------------------------------------------------------
+
+📌 Title:
+   JSON Fix for Amazon JSON_LISTINGS_FEED Submission
+
+🔗 Link:
+   https://www.upwork.com/jobs/JSON-span-class-highlight-Fix-span-for-Amazon-JSON_LISTINGS_FEED-Submission_~021981208412804933305/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Intermediate
+💰 Budget: Est. budget:
+$10.00
+
+📝 Description:
+We are seeking a skilled freelancer to fix a JSON file for an Amazon JSON_LISTINGS_FEED submission. We only need to fix the code as its not updating our inventory. This is for a MFN product. Please review the attached code.
+
+✅ Match Reason:
+The freelancer's backend development and data manipulation skills are directly applicable to fixing a JSON file for an API submission to Amazon, which is a common task in data-driven web applications.
+======================================================================
+

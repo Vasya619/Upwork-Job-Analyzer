@@ -1,0 +1,1000 @@
+Title: Telegram Channel Security Specialist Needed
+Link: https://www.upwork.com/jobs/Telegram-Channel-Security-Specialist-Needed_~021981318836582997665/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking a skilled professional to secure our Telegram channel from content disputes and potential closure. The ideal candidate will have experience in managing Telegram channels and a good understanding of content ownership issues.
+Job Type: Hourly
+Experience Level: Expert
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: Monitoring Specialist for Grafana/Prometheus/Loki Configuration
+Link: https://www.upwork.com/jobs/Monitoring-Specialist-for-Grafana-Prometheus-Loki-Configuration_~021981318709304049358/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking an experienced monitoring specialist to configure dashboards and alerts for our existing Grafana/Prometheus/Loki stack deployed via Docker Compose. Our infrastructure runs a complete containerized monitoring stack including Grafana with PostgreSQL backend, Prometheus, Loki, Exporter, cAdvisor, and Promtail, all exposed through Traefik reverse proxy across multiple Docker networks in Coolify. The ideal candidate will create comprehensive Grafana dashboards for system metrics, Docker container performance, and application logs, while configuring Prometheus alerting rules to catch critical issues early. You'll set up alert notifications via email, Slack, or webhooks and ensure proper documentation of thresholds and dashboard usage. Strong experience with containerized monitoring stacks, PromQL, Docker Compose, and creating production-ready Grafana dashboards is essential. Deliverables include 3-5 dashboards, complete alerting configuration, documentation, and a knowledge transfer session. Please share examples of similar Docker-based Grafana/Prometheus/Loki implementations you've completed.
+Job Type: Hourly: $15.00 - $25.00
+Experience Level: Expert
+Budget: Est. time:
+More than 6 months, Less than 30 hrs/week
+
+---
+
+Title: Developer needed who can build an AI Receptionist (Vapi / make.com)
+Link: https://www.upwork.com/jobs/Developer-needed-who-can-build-Receptionist-Vapi-make-com_~021981318611614139897/?referrer_url_path=/nx/search/jobs/
+Description: We are looking for a developer who can: - Build AI receptionists using **Vapi/ElevenLabs, Make.com, Twilio, and CRM integrations** - Ensure the receptionist can: - Answer calls naturally with human-like voice - Schedule, reschedule, and cancel appointments in the business calendar - Operate with minimum latency and without errors - Be customized for each client’s business needs (scripts, FAQs, tone, etc.) - Handle bug and adjustments if needed after the build
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$750.00
+
+---
+
+Title: Automated Measurements Integration in Zoho CRM/Creator
+Link: https://www.upwork.com/jobs/Automated-Measurements-span-class-highlight-Integration-span-Zoho-CRM-Creator_~021981317015602024406/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking a skilled freelancer to develop an automated module in Zoho CRM or Zoho Creator that integrates measurements from external sites or files [csv or xml] to generate work orders and material lists. The module should support templates based on work types, such as shingles or siding, with formulas to calculate quantities needed.
+Job Type: Fixed price
+Experience Level: Expert
+Budget: Est. budget:
+$7,000.00
+
+---
+
+Title: Project: Add “Request a Quote” Functionality to My WIX WebsiteUntitled job post
+Link: https://www.upwork.com/jobs/Project-Add-Request-Quote-Functionality-WIX-WebsiteUntitled-job-post_~021981316652316704462/?referrer_url_path=/nx/search/jobs/
+Description: 🛠️ Project: Add “Request a Quote” Functionality to My WIX Website Description: I need help customizing my WIX.com website. Instead of the standard “Add to Cart” function, I want an “Add to Quote” button. When a visitor views their quote/cart summary, the summary should be sent to my email, allowing me to contact the customer directly. We sell furniture B2B, so there are no prices on the site. Customers should be able to select products, add them to a quote list, and then fill out a contact form to request a quote. There are ready-made form templates available within my WIX premium plan that can be used or customized for this purpose.
+Job Type: Hourly
+Experience Level: Intermediate
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: Senior Fullstack Developer - Claude Code Expert
+Link: https://www.upwork.com/jobs/Senior-Fullstack-Developer-Claude-Code-Expert_~021981315139615426041/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking an experienced Senior Fullstack Developer with expertise in Claude Code to join our team. The ideal candidate will have a strong background in both front-end and back-end development, with a focus on creating efficient and scalable solutions. This is a full-time, ongoing position with a medium project scale, requiring an expert level of proficiency. Key Focus is on: Supporting through launch and post launch phase by: Finalizing the development of feature set for launch, establishing best practices in team, Converting the processes from development into operations modus and Benchmarking IT infrastructure and technical roadmap.
+Job Type: Hourly: $15.00 - $40.00
+Experience Level: Expert
+Budget: Est. time:
+3 to 6 months, 30+ hrs/week
+
+---
+
+Title: Local Videographer for Walking Tour Videos in Pattaya
+Link: https://www.upwork.com/jobs/Local-Videographer-for-Walking-Tour-Videos-Pattaya_~021981267682810744790/?referrer_url_path=/nx/search/jobs/
+Description: Seeking a local videographer in Pattaya, Thailand to film walking tour videos in the city's popular areas. The role involves capturing 3-5 videos per week, each 45-60 minutes long, focusing on a first-person walking experience with natural ambient sound. Raw footage is required, and a gimbal is preferred for steady and clear video quality. This is a -price engagement with potential for ongoing work based on quality.
+Job Type: Fixed price
+Experience Level: Entry Level
+Budget: Est. budget:
+$30.00
+
+---
+
+Title: Receive SMS on Saudi Phone Number
+Link: https://www.upwork.com/jobs/Receive-SMS-Saudi-Phone-Number_~021981312021230468814/?referrer_url_path=/nx/search/jobs/
+Description: We are looking for someone with a valid Saudi phone number to receive an SMS for a specific task. This is a simple task that requires minimal effort and is ideal for someone looking for a quick, entry-level opportunity.
+Job Type: Fixed price
+Experience Level: Entry Level
+Budget: Est. budget:
+$50.00
+
+---
+
+Title: Experienced Motion Graphic Artist for SaaS Promotional Video
+Link: https://www.upwork.com/jobs/Experienced-Motion-Graphic-Artist-for-SaaS-Promotional-Video_~021981311909850599382/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking an experienced motion graphic artist to create a compelling promotional video for our SaaS product. The ideal candidate will have a strong creative direction, excellent storyboarding skills, and the ability to create engaging sound effects. This project requires a high level of expertise in motion graphics and animation to effectively communicate our product's value. We also require approximately 8 x 3-4 second videos for the website. These will be the sections from the promotional videos that only showcase individual features such as a map or filter. These will be cut-out versions without voiceover or music. We will provide you Fima files to work on. Here are some examples https://www.youtube.com/@elevenlabsio https://youtu.be/SgmuplXU2iY https://youtu.be/bPn2MUu0YaY?si=JwJbymmKoLRvUyXR Please send your portfolio. This job will be quoted on a fee basis. Please do not quote an hourly rate. Thank you
+Job Type: Hourly
+Experience Level: Expert
+Budget: Est. time:
+Less than 1 month, Not sure
+
+---
+
+Title: Shopify SEO Header Tags
+Link: https://www.upwork.com/jobs/Shopify-SEO-Header-Tags_~021981310968292017657/?referrer_url_path=/nx/search/jobs/
+Description: I need the H1/H2/H3 tags on about 20 of my core pages fixed and optimised. I can provide all the details H1/H2/H3 tags needed, I just need someone to: 1: Make the changes 2: Loom record one of the changes (with commentary), so we can change them in future ourselves. If you can quote a price, and it's fair, I have many other possible SEO jobs.
+Job Type: Hourly
+Experience Level: Intermediate
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: Need 500 AI-Generated Finance, Business & Money Shorts Videos | Long-Term Work
+Link: https://www.upwork.com/jobs/Need-500-Generated-Finance-Business-Money-Shorts-Videos-Long-Term-Work_~021981309111741046433/?referrer_url_path=/nx/search/jobs/
+Description: I’m looking for a creative video editor who can use AI tools to make 500 short videos focused on finance, business, and money topics. The videos must be copyright-free, HD quality, and suitable for YouTube Shorts, This is a fixed-price project ($20) for the first 500 videos. If the quality is good, this will become a long-term collaboration with continuous work.
+Job Type: Fixed price
+Experience Level: Expert
+Budget: Est. budget:
+$20.00
+
+---
+
+Title: Research market
+Link: https://www.upwork.com/jobs/Research-market_~021981308747684873721/?referrer_url_path=/nx/search/jobs/
+Description: Market Analysis (Food E-Commerce, China in Germany/Europe) The goal is to analyze how Chinese companies are entering the German and European food e-commerce sector, focusing on mergers, acquisitions, investments, and platform expansion strategies. Task Overview: Research recent activity of Chinese firms (e.g., JD.com, Temu, TikTok Shop, WH Group) acquiring or investing in food e-commerce and food retail companies in Germany and Europe. Evaluate both direct investments/majority acquisitions and partnerships (e.g., logistics, marketplace deals, supply chain ). Use sources such as industry press (e.g., Lebensmittel Praxis, agrarheute), market studies (PwC, VDF), and current news articles to document trends, key players, and strategic motives. Prepare a summary highlighting risks, opportunities, and implications for premium food platforms - especially referencing www.gourmetfleisch.de. Deliverables: An analytical report summarizing findings, including relevant deals, company profiles, and market trends. Clear citations (footnotes or references) to all used sources. Skills Required: Experience in market research, ideally with focus on e-commerce, food retail, or cross-border investment. Ability to synthesize German and English language sources. Strong analytical writing and reporting skills.
+Job Type: Hourly: $25.00 - $30.00
+Experience Level: Intermediate
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: High-Converting Promotional Video Creation for GoHighLevel
+Link: https://www.upwork.com/jobs/High-Converting-Promotional-Video-Creation-for-GoHighLevel_~021981307955284379129/?referrer_url_path=/nx/search/jobs/
+Description: We're looking for an expert video creator to produce a 20-30 second promotional video for our GoHighLevel agency website. The goal is to quickly explain our value, build trust, and drive visitors to book a call. Project Scope: Use our script, branding, and provided assets. Incorporate high-quality stock footage, screen recordings, and motion graphics. professional voiceover and background music. Deliver a polished, high-resolution video for our website (1-2 revision rounds). Huge bonus: You are familiar with the GoHighLevel platform.
+Job Type: Fixed price
+Experience Level: Expert
+Budget: Est. budget:
+$10.00
+
+---
+
+Title: GoHighLevel Appointment Reminder Setup
+Link: https://www.upwork.com/jobs/GoHighLevel-Appointment-Reminder-Setup_~021981305459740607993/?referrer_url_path=/nx/search/jobs/
+Description: I’m looking for an experienced GoHighLevel (GHL) freelancer to set up a basic SMS/email appointment reminder system for one calendar. What You’ll Do: 1. Connect and configure one Google or Office 365 calendar in GHL. 2. Create a simple “Appointments” pipeline with these stages: • Scheduled • Reminder Sent • Completed 3. Set up an automation to send SMS or email reminders 24 hours before the appointment, including the appointment date, time, and a confirmation message. Deliverables: • Working calendar connection • Pipeline with required stages • Fully functional reminder automation (tested with a provided email or phone number) • Short screen share to explain the setup Requirements: • Experience with GoHighLevel • Knowledge of pipelines, automations, and calendar • Clear communication and quick turnaround Ready to hire immediately.
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$250.00
+
+---
+
+Title: Fix ArcGIS JavaScript App — Satellites Not Visible on 2D Map
+Link: https://www.upwork.com/jobs/span-class-highlight-Fix-span-ArcGIS-JavaScript-App-Satellites-Not-Visible-Map_~021981305045711445665/?referrer_url_path=/nx/search/jobs/
+Description: I have an ArcGIS JavaScript app (using version 4.31) that is supposed to display real-time satellite positions from a tle.txt file. The code loads the TLE data and uses the satellite.js library to calculate positions. However, the satellites are not appearing on the map, even though there are no console errors. I suspect the issue may be related to how the TLE data is loaded, the use of MapView instead of SceneView, or something in the rendering pipeline. I need a developer familiar with ArcGIS JavaScript 4.x and satellite.js to debug and the problem so that the satellites are properly displayed on the 2D globe in real time. Regards, Jorge
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$20.00
+
+---
+
+Title: Real Estate Acquisition Manager (Part-Time, Long-Term Role)
+Link: https://www.upwork.com/jobs/Real-Estate-Acquisition-Manager-Part-Time-Long-Term-Role_~021980817916833098697/?referrer_url_path=/nx/search/jobs/
+Description: Are you a natural salesperson who loves connecting with people, building trust, and closing deals? Do you get energy from conversations and enjoy helping others while achieving your own goals? If that sounds like you — and you love learning, improving, and being part of a supportive, long-term team — we’d love to meet you! 🔸 This is a part-time position to start, with steady hours and the opportunity to grow into full-time for the right performer. 💼 About Us We’re a U.S.-based real estate wholesaling company with 10+ years in the industry. We help property owners sell houses and vacant land quickly through creative strategies, including wholesaling, novation, double closing, or agent listing. Our team is structured, collaborative, and long-term focused — most of our members stay for years because we invest in their growth. ⚙️ How We Work - We use Podio CRM with tools like our Offer Calculator, scripts, and AI support. - We AI tools (including ChatGPT) to enhance communication and efficiency. - Our workflows are well-defined, so you’ll always know what to do and how to succeed. 🚀 Your Role - Call and qualify inbound leads (no cold calling). - Build rapport and guide sellers through our process professionally. - Present offers and negotiate confidently using data provided by our analysis team. - Manage offers and contracts through Podio and DocuSign. - Keep CRM notes and statuses updated. - Work closely with the Transaction Coordinator and Disposition team until closing. ✅ What We’re Looking For - Fluent English with a neutral accent (spoken and written). - 3+ years of experience in telesales or phone-based closing roles. - Strong negotiation and relationship-building skills. - Persistent and confident in follow-ups. - Comfortable in sales conversations and motivated by results. - Real estate experience is a big plus. - Tech-comfortable — able to use CRMs, spreadsheets, and AI tools like ChatGPT. - Self-motivated, detail-oriented, and dependable. 💡 Why You’ll Love Working With Us ⏰ Part-time role with flexible hours that can grow into full-time. 🌍 100% Remote — work from anywhere with reliable internet. 📘 Step-by-step training on all systems, scripts, and tools. ⚙️ Clear processes and automations to help you succeed. 💪 Supportive team culture — you’ll never feel like “just another rep.” 💰 Hourly pay + performance bonuses for every closed deal. 🔄 Long-term, stable opportunity with real growth potential. 🌟 The Ideal Candidate - You’re confident and persuasive — but empathetic. - You enjoy meaningful conversations and can guide people to a decision they feel good about. - You thrive in a structured environment where your effort directly impacts results. - You love sales — not just the money, but the human connection and satisfaction of helping people move forward. - You have strong attention to detail, ensuring accurate notes, updates, and follow-ups in our system. - You’re patient and consistent with follow-ups, understanding that persistence often turns opportunities into deals.
+Job Type: Hourly: $10.00 - $20.00
+Experience Level: Expert
+Budget: Est. time:
+More than 6 months, Less than 30 hrs/week
+
+---
+
+Title: GTM Setup Consent Mode and Meta Pixel firing
+Link: https://www.upwork.com/jobs/GTM-Setup-Consent-Mode-and-Meta-Pixel-firing_~021981303678993292961/?referrer_url_path=/nx/search/jobs/
+Description: Hi We are looking for a fix on our GTM setup so that Meta events are firing after Consent Mode is granted by the user. We do have a Server Side tracking in GTM. Currently the Meta events are not firing on Web Container and on Server Container either. Looking forward to work with you. Thank you Razvan
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$50.00
+
+---
+
+Title: Java developer to integrate the TikTok Marketing API
+Link: https://www.upwork.com/jobs/Java-developer-span-class-highlight-integrate-span-the-TikTok-Marketing-span-class-highlight-API-span_~021981302930403577814/?referrer_url_path=/nx/search/jobs/
+Description: We’re looking for a Java developer with hands-on experience using the TikTok Java SDK to access the Marketing API. Our app needs to access the TikTok Ads accounts to retrieve details of the campaigns, etc. Your job will be - Configure the TikTok developer app account as needed. - Develop the required Java code in our GitHub repo to access and retrieve the data required from the ads accounts.
+Job Type: Hourly
+Experience Level: Intermediate
+Budget: Est. time:
+Less than 1 month, Not sure
+
+---
+
+Title: Client Success Manager (US Time Zone) — AI Systems & Consulting
+Link: https://www.upwork.com/jobs/Client-Success-Manager-Time-Zone-Systems-Consulting_~021981297732595695310/?referrer_url_path=/nx/search/jobs/
+Description: 🧭 About LuxeBridge Consultancy LuxeBridge Consultancy is a Dubai-based growth and AI systems company helping businesses scale through automation, marketing, and intelligent sales systems. We work with clients in real estate, mortgage, insurance, and healthcare — building done-for-you AI infrastructures that generate qualified leads, automate CRM operations, and optimize conversions. We’re now expanding into the US and Canadian markets and are looking for a Client Success Manager (Americas) to manage day-to-day client communication, onboarding, and coordination between our internal AI, dev, and media teams. 🎯 Your Role You’ll be the main point of contact for our clients in the Americas — guiding them through onboarding, ensuring deliverables are met, and keeping communication smooth between clients and our technical/development team. Your daily responsibilities will include: Managing active client accounts and maintaining consistent communication. Overseeing client onboarding (access, forms, CRM setups, AI system launches). Gathering feedback and translating it into clear tasks for internal teams. Monitoring project progress and reporting updates to the founder. Handling small client issues or change requests efficiently. Helping prepare weekly client reports, KPI updates, and system check-ins. Coordinating with sales and delivery teams to ensure smooth handovers. 🕒 Schedule Full-time or part-time (min. 4–6 hours daily) Must work on US or South America time zones (EST/CST/PST) Communication mainly via Slack, WhatsApp, and ClickUp/Notion 🧠 You’ll Be Working On AI Growth Systems — our flagship product that automates lead generation and qualification for mortgage, insurance, and real estate clients. Client Campaigns — coordinating with our AI developers and ad/media team to ensure launches and reports are always on schedule. System Rollouts — ensuring CRM , onboarding flows, and AI agents (like “Bryan”) go live smoothly. ✅ Requirements Experience in Client Success, Account Management, or Operations (B2B / agency / SaaS preferred). Excellent spoken and written English (neutral or North American accent). Strong organizational and communication skills. Comfortable managing multiple client projects simultaneously. Prior experience using CRMs (GoHighLevel, HubSpot, Bitrix, ClickUp, etc.) is a huge plus. Background in marketing, automation, or AI systems is highly preferred. 💰 Compensation Hourly or monthly retainer (based on experience and hours). Range: $1,000–$1,500 USD/month to start (with performance-based increase). Bonuses for client retention and satisfaction metrics. 🚀 What You’ll Get Direct mentorship from the founder (Sanad Boughalmi). Exposure to cutting-edge AI marketing systems and workflows. A supportive, fast-paced, remote-first environment. Career growth within a global consulting brand expanding across the Americas. 📋 How to Apply Please include: A short Loom or voice note introducing yourself and your experience with client success or account management. Examples of past clients or industries you’ve managed. Your current time zone and daily availability.
+Job Type: Hourly: $12.00 - $30.00
+Experience Level: Intermediate
+Budget: Est. time:
+More than 6 months, 30+ hrs/week
+
+---
+
+Title: Google Sheets Cross-Referencing and Data Extraction
+Link: https://www.upwork.com/jobs/Google-Sheets-Cross-Referencing-and-Data-Extraction_~021981298818000477857/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking a skilled freelancer to assist in cross-referencing two spreadsheets in Google Sheets and extracting matching records. The ideal candidate will have experience in data manipulation and be proficient in using Google Sheets to identify and extract data efficiently. The freelancer will provide a step-by-step guide on how to perform these tasks, with a focus on meeting a specific deadline.
+Job Type: Hourly
+Experience Level: Expert
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: Full‑Stack & API Automation Expert for Email Automation Project
+Link: https://www.upwork.com/jobs/Full-Stack-amp-span-class-highlight-API-span-Automation-Expert-for-Email-Automation-nbsp-Project_~021981297461572227030/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking an experienced Full-Stack & API Automation Expert to lead our Email Automation Project. The ideal candidate will have a strong background in developing and integrating APIs to automate email processes efficiently.
+Job Type: Fixed price
+Experience Level: Expert
+Budget: Est. budget:
+$10.00
+
+---
+
+Title: Windows Expert Needed – Fix Office 365 Licence Issue on PC
+Link: https://www.upwork.com/jobs/Windows-Expert-Needed-span-class-highlight-Fix-span-Office-365-Licence-Issue_~021981297250619834062/?referrer_url_path=/nx/search/jobs/
+Description: Windows Expert Needed – Fix Office 365 Licence Issue on PC Description: My laptop isn’t recognising my new Office 365 licence — I can only use the web versions of Word, Excel, etc. I’ve already tried the usual fixes (signing out/in, reinstalling Office, checking updates), but no luck. I need an experienced Windows and Microsoft 365 expert to remotely troubleshoot and get my PC using the correct licence so desktop apps work properly again. Requirements: Strong experience with Windows 10/11 and Microsoft 365 Able to diagnose and licence/account conflicts Available to work via remote session (e.g. AnyDesk, Teams, etc.) Goal: Get my local Office apps activated and linked to the correct Microsoft 365 subscription.
+Job Type: Hourly
+Experience Level: Expert
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: DevOps Engineer for ECM Product Environment Setup
+Link: https://www.upwork.com/jobs/DevOps-Engineer-for-ECM-Product-Environment-Setup_~021981297077109491193/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking a hands-on DevOps Engineer to execute and implement our Environment Strategy & Implementation Plan for our ECM product. The role involves setting up infrastructure, integrations, and CI/CD automation on Linode, focusing on Testing / Sandbox environments.
+Job Type: Hourly: $20.00 - $30.00
+Experience Level: Intermediate
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: Bubble Developer for Delivery Platform: Feature Development and Bug Fixing
+Link: https://www.upwork.com/jobs/Bubble-Developer-for-Delivery-Platform-Feature-Development-and-Bug-span-class-highlight-Fixing-span_~021981294940592922273/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking a skilled Bubble developer to assist with building new features, enhancing performance, and resolving bugs in our application. Our website is Porta Delivery (google) This role requires a commitment of up to 25 hours per week. The ideal candidate will have a strong understanding of the Bubble platform and experience in delivering high-quality applications. If you are passionate about no-code development and are looking for a flexible part-time opportunity, we would love to hear from you. We would want you to join Slack and collaborate effectively there.
+Job Type: Hourly: $15.00 - $22.00
+Experience Level: Intermediate
+Budget: Est. time:
+1 to 3 months, Less than 30 hrs/week
+
+---
+
+Title: Business Central & Jet Reports Specialist (Merchandising Support)
+Link: https://www.upwork.com/jobs/Business-Central-Jet-Reports-Specialist-Merchandising-Support_~021981294508715228878/?referrer_url_path=/nx/search/jobs/
+Description: Project Overview We are looking for a skilled Business Central and Jet Reports professional to support our Merchandising Department. You’ll be responsible for creating, improving, and automating key merchandising and business reports — ensuring data is accurate, insightful, and available for decision-making. The role is ideal for someone with strong data analysis skills and an understanding of retail/merchandising operations. Responsibilities Build, update, and maintain reports and dashboards in Jet Reports using data from Microsoft Dynamics 365 Business Central. Work closely with the Merchandisers to deliver daily, weekly, and monthly reports, including: Weekly Trade Packs Sales and Stock Reports Sell-Through Reports Range and Buy Packs Markdowns and Promotions Reports Online Stock and Performance Reports Ensure reports are accurate, formatted professionally, and automated where possible. Provide ad hoc reporting and data analysis as needed. Support the team with data extraction, cleaning, and validation from Business Central. Recommend improvements to reporting processes and KPIs. Skills & Experience Required Proven experience using Microsoft Dynamics 365 Business Central. Strong hands-on experience with Jet Reports (required). Excellent Excel skills (Pivot Tables, VLOOKUPs, charts, etc.). Ability to understand and work with merchandising and retail data. High attention to detail, accuracy, and data . Strong communication skills — able to interpret requests and deliver reports that meet business needs. Experience in retail, merchandising, or fashion industry reporting is a big plus. Project Duration & Scope Initial contract: 4–8 weeks, with potential for ongoing work. Flexible hours, remote working. May extend into ongoing support or training for internal staff. How to Apply Please include in your proposal: A short summary of your experience with Business Central and Jet Reports. Examples or screenshots of similar reports or dashboards you’ve created (if possible). Your hourly rate and availability.
+Job Type: Hourly
+Experience Level: Intermediate
+Budget: Est. time:
+1 to 3 months, 30+ hrs/week
+
+---
+
+Title: Critical Fixes & Stabilization
+Link: https://www.upwork.com/jobs/Critical-span-class-highlight-Fixes-span-amp-Stabilization_~021981293844278628310/?referrer_url_path=/nx/search/jobs/
+Description: We need an experienced full-stack developer to perform critical fixes and stabilize our MVP web application. The goal is to ensure reliable performance, smooth API integration, and consistent functionality before moving on to new features.
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$10.00
+
+---
+
+Title: Primavera Rest API Integration expert needed
+Link: https://www.upwork.com/jobs/Primavera-Rest-span-class-highlight-API-span-span-class-highlight-Integration-span-expert-needed_~021981293781099578873/?referrer_url_path=/nx/search/jobs/
+Description: I need someone to build an integration between Primavera OPC and Primavera Unifier. There is an additional piece of work following this that automates importing xmls into a P6 cloud environment
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$100,000.00
+
+---
+
+Title: Data collector
+Link: https://www.upwork.com/jobs/Data-collector_~021981292350271864526/?referrer_url_path=/nx/search/jobs/
+Description: 𝗪𝗲 𝗔𝗿𝗲 𝗛𝗶𝗿𝗶𝗻𝗴 | 𝗗𝗮𝘁𝗮 𝗖𝗼𝗹𝗹𝗲𝗰𝘁𝗼𝗿 | Currently, we are seeking freelancing individuals / data collections company/ University students / with basic understanding of data collection and who can maintain data integrity and confidentiality. This is part of our annual Voice of Employees survey across our sites. We are looking for enthusiastic individuals who can assist in conducting employee surveys on-ground for two days. 𝗔𝗯𝗼𝘂𝘁 𝘁𝗵𝗲 𝗿𝗼𝗹𝗲 - 𝗗𝘂𝗿𝗮𝘁𝗶𝗼𝗻: 1 – 2 days (between 24th to 31st October, 2025) 𝗪𝗼𝗿𝗸 𝘁𝘆𝗽𝗲: Voice of Employee (Employee Feedback) Survey Administration 𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻(𝘀): Mumbai, Delhi, Panchkula, Vadodara, Pune, Bangalore, Chennai, Hyderabad, Vizag, Kolkata 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲: Local language proficiency (Hindi, Marathi, Telugu, Tamil, Gujarati, Bengali, Kannada) 𝗦𝘁𝗶𝗽𝗲𝗻𝗱: ₹3,000/- per day 𝗘𝘅𝗽𝗲𝗰𝘁𝗮𝘁𝗶𝗼𝗻: Enable Blue Collar worker to take the survey and assist in explanation where needed. Maintain neutrality and confidentiality. 𝗔𝗯𝗼𝘂𝘁 𝘁𝗵𝗲 𝗢𝗿𝗴𝗮𝗻𝗶𝘀𝗮𝘁𝗶𝗼𝗻- Lindstrom India is the Indian subsidiary of Lindström Group, a Finnish textile service company. It is India's leading organized workwear rental company, providing comprehensive textile services based on circular economy principles. Lindstrom India serves a wide range of sectors, including: automotive, electronics, engineering, food processing, Healthcare and pharmaceuticals..etc. with 13 operational business units on 11 different locations based in India.
+Job Type: Hourly
+Experience Level: Entry Level
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: Xero Bookkeeper for Multi-Entity Setup (Business, Trust & Company + PayPal/Wise)
+Link: https://www.upwork.com/jobs/Xero-Bookkeeper-for-Multi-Entity-Setup-Business-Trust-Company-PayPal-Wise_~021981291328405192398/?referrer_url_path=/nx/search/jobs/
+Description: Xero Bookkeeper for Multi-Entity Setup (Business, Trust & Company + PayPal/Wise + Hubdoc) Job Description We’re looking for an experienced Xero bookkeeper to help tidy up and manage bookkeeping across our structured group consisting of a business account, family trust, and company. To start, the role will involve a review and cleanup (although fairly clean I think) of our existing Xero accounts, implementing best practices for chart of accounts, inter-entity workflows, and document management. Once systems are streamlined, this will transition into ongoing monthly bookkeeping and reporting. Our operations include marketing, investment, and general business activities, with financial flows across multiple entities, PayPal, and Wise accounts. Key Tasks Initial tidy-up of existing Xero files and setup improvements Review and optimise chart of accounts, tracking categories, and entity links Set up and manage Hubdoc for automated invoice and receipt processing Reconcile bank, PayPal, Wise, and margin loan accounts Manage inter-entity transfers, trust distributions, and loan accounts Prepare and assist with BAS, GST, and payroll entries Produce monthly P&L, balance sheet, and cash-flow reports Liaise with the accountant for year- compliance and adjustments Required Experience 3+ years of Xero bookkeeping experience (multi-entity environments preferred) Experience with Xero account cleanup and process optimisation Skilled in Hubdoc setup and ongoing management Strong understanding of Australian trust and company structures Confident reconciling PayPal, Wise, and multi-currency accounts Knowledge of GST, BAS, Div 7A, and trust distributions Excellent attention to detail and clear communication skills (Bonus) Familiar with Sharesight, Navexa, or CryptoTaxCalculator . Project Details Initial project: Xero tidy-up and best-practices implementation Ongoing role: approx. 5–10 hours per week for maintenance and reporting Remote position (Australia preferred) — must understand Australian accounting standards Flexible work hours, with monthly and quarterly deadlines
+Job Type: Hourly: $10.00 - $14.00
+Experience Level: Expert
+Budget: Est. time:
+More than 6 months, 30+ hrs/week
+
+---
+
+Title: Power Apps & Microsoft Teams Developer – End-to-End Task and Process Integration (Hourly)
+Link: https://www.upwork.com/jobs/Power-Apps-amp-Microsoft-Teams-Developer-span-class-highlight-End-span-span-class-highlight-End-span-Task-and-Process-span-class-highlight-Integration-span-Hourly_~021981291290601930446/?referrer_url_path=/nx/search/jobs/
+Description: We are looking for a Microsoft Power Apps and Power Platform expert to help us create an integrated collaboration environment in Microsoft Teams. The goal is to have a complete workflow system similar to the example from Q-Linked’s methodology — where tasks, lists, and processes are fully connected and accessible directly inside Teams. https://www.q-linked.ch/de/arbeitsweise/ This includes: Creating Teams and Channels automatically for projects or topics Building custom Power Apps for managing tasks, issues, and documents Microsoft Lists and Planner / To Do tasks Connecting Microsoft Forms for structured input Ensuring a seamless flow of information from forms → lists → actions → reports Optionally linking to Power Automate for alerts or workflow automation We want a through-connected solution — from initial form or request to task assignment and completion tracking — all visible within Teams. Key Responsibilities: Develop and customize Power Apps embedded in Teams Configure Teams channels dynamically or with templates Set up Microsoft Lists for task and issue tracking Create dashboards or overviews in Power Apps for team visibility Microsoft Forms or SharePoint lists as input sources Automate steps using Power Automate (notifications, assignments, etc.) Ensure data consistency and usability across all connected components Requirements: Proven experience with Microsoft Power Platform (Power Apps, Power Automate, Power BI) Strong understanding of Microsoft Teams structure, channel creation, and permissions Experience with Microsoft Lists, Planner, and Forms Understanding of SharePoint and Dataverse connections Good English communication (German a plus) Available for ongoing collaboration on an hourly basis Deliverables: Fully functioning Power Apps solution into Teams Connected Forms, Lists, and Tasks Documentation or user manual for administrators and -users (Optional) Dashboards showing task and process status
+Job Type: Hourly: $10.00 - $20.00
+Experience Level: Expert
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: Fix Conversion Tracking: Google Analytics, GTM, Meta Ads & Facebook CAPI Setup
+Link: https://www.upwork.com/jobs/span-class-highlight-Fix-span-Conversion-Tracking-Google-Analytics-GTM-Meta-Ads-amp-Facebook-CAPI-Setup_~021981290896580249081/?referrer_url_path=/nx/search/jobs/
+Description: We need an expert to fix our conversion tracking issue that's causing incorrect data in Meta Ads and Google Analytics. The Problem: We sell subscriptions ($30/month or $90/quarter) through our website. Currently, conversions fire when users create a MemberStack account, NOT when they complete payment via Stripe. This means Meta Ads shows lots of "conversions" with zero actual payments, causing poor ad targeting. Current Flow: Customer clicks "Subscribe" → MemberStack account creation (name, email, password) → [Conversion fires HERE - WRONG] → Stripe checkout → Payment completed [Should fire HERE] What We Need: - Reconfigure conversion tracking to fire only AFTER successful Stripe payment - Set up Facebook Conversion (CAPI) - Ensure accurate tracking in both Meta Ads and Google Analytics/GTM - attribution so our ads target the right audience Our Stack: Webflow wesite, MemberStack, Stripe, Gumroad, Google Analytics, GTM, Meta Ads
+Job Type: Hourly: $10.00 - $50.00
+Experience Level: Expert
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: Web Application Setup with Google Cloud and AI Integration
+Link: https://www.upwork.com/jobs/Web-Application-Setup-with-Google-Cloud-and-span-class-highlight-Integration-span_~021981290274538774177/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking a skilled developer to configure and set up our web application using GitHub, Firebase, Firestore, and Google Cloud. The ideal candidate should also be familiar with Google AI Studio and integrating AI functions within applications, specifically focusing on natural language processing. The project needs to be completed within a month.
+Job Type: Hourly: $20.00 - $29.00
+Experience Level: Expert
+Budget: Est. time:
+1 to 3 months, Less than 30 hrs/week
+
+---
+
+Title: GoHighLevel Expert Needed to Fix Issues & Add Advanced Features (No Rebuild Required)
+Link: https://www.upwork.com/jobs/GoHighLevel-Expert-Needed-span-class-highlight-Fix-span-Issues-amp-Add-Advanced-Features-Rebuild-Required_~021981290221972588025/?referrer_url_path=/nx/search/jobs/
+Description: Hello! 👋 I’m looking for an experienced GoHighLevel CRM expert who can help me fix a few issues and add advanced features to my existing booking system. ✅ I already have a fully functional booking system, so I don’t want to rebuild anything — I just need some custom improvements on specific pages (mainly the second page) and a few automation and upgrades to make the system run seamlessly without any manual work. The ideal person should: Have deep technical knowledge of GoHighLevel CRM (including forms, funnels, calendars, automations, triggers, and ). Be able to consult with me first to understand the setup before making changes. Be able to existing issues quickly and add advanced automation features. Have previous experience working on GoHighLevel booking or automation systems (please share examples or screenshots if available). 💰 Budget: $100 AUD ⏰ Timeline: As soon as possible (preferably within 1–2 days) 🌏 Location: We are a growing cleaning business based in Sydney, Australia ⭐ Bonus: I’ll leave a 5-star review if the job is completed successfully 🤝 Long-term opportunity: If you do a great job, I’ll hire you again for future GoHighLevel improvements as our business expands and we add more services. Please apply only if you have proven experience with GoHighLevel and can show past work or references. Include “GHL Expert – Sydney Project” at the top of your proposal so I know you’ve read this job post fully.
+Job Type: Hourly
+Experience Level: Expert
+Budget: Est. time:
+Less than 1 month, Not sure
+
+---
+
+Title: VPS Expert Needed for Urgent DNS Issue Resolution
+Link: https://www.upwork.com/jobs/VPS-Expert-Needed-for-Urgent-DNS-Issue-Resolution_~021981290129446241785/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking an experienced VPS expert to urgently resolve a DNS issue causing our website to be down. The website is hosted on Cloudflare, and we need someone who can quickly diagnose and fix the problem. After resolving the issue, we are open to discussing ongoing monthly maintenance to ensure the website remains operational.
+Job Type: Fixed price
+Experience Level: Expert
+Budget: Est. budget:
+$100.00
+
+---
+
+Title: Create eBay listing for wellness high-end health equippment. Violations-free, SEO optimized
+Link: https://www.upwork.com/jobs/Create-eBay-listing-for-wellness-high-span-class-highlight-end-span-health-equippment-Violations-free-SEO-optimized_~021981289646308806614/?referrer_url_path=/nx/search/jobs/
+Description: Create 6 optimized, violations-free eBay listing. I'll provide photos and product details - Links to the websites basically and you can pull all the information from there. I would like you to ensure correct categories, keywords and compliance with eBay rules. The products are high-end wellness/ biohacking/ workout devices and I would like the adds to be very well done. My account got banned as I did it myself and apparently there was a policy violation so would need to set up a new one. price is 50 USD as there are 6 listings - But happy to go higher for someone with more experience in the field and proved work examples.
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$50.00
+
+---
+
+Title: Full Stack Developer - SaaS app
+Link: https://www.upwork.com/jobs/Full-Stack-Developer-SaaS-app_~021981289600377110222/?referrer_url_path=/nx/search/jobs/
+Description: We're looking to build PseudoAI, an AI induced Web application with dozens of high value features giving us an edge in the market. We're looking for an expert Full Stack SAAS developer who can make this a reality.
+Job Type: Hourly: $15.00 - $80.00
+Experience Level: Expert
+Budget: Est. time:
+More than 6 months, 30+ hrs/week
+
+---
+
+Title: Legal Expert Needed: Contract for Charity Medical Partnership in India
+Link: https://www.upwork.com/jobs/Legal-Expert-Needed-Contract-for-Charity-Medical-Partnership-India_~021981288488823508950/?referrer_url_path=/nx/search/jobs/
+Description: Legal Expert Needed: Draft Memorandum of Understanding (MOU) for Charity Medical Partnership in India Terms of Reference (TOR) 1. The Noble Cause: Project Overview Sharing Smile Foundation, a registered charity, is partnering with a larger, established charity to significantly enhance medical support for poor and needy communities in the Rishikesh area of Uttarakhand, India. This project involves combining our respective strengths to launch and sustain a critical medical facility. We are seeking an experienced legal professional to draft a robust and clear Memorandum of Understanding (MOU) that solidifies the terms of this high-impact, long-term collaboration. 2. Strategic Partnership Structure The MOU must clearly outline the following division of responsibilities, reflecting a zero-rent partnership structure: Responsibility Sharing Smile Foundation (SSF - Our Charity) Partner Charity Capital Investment 100% Responsibility. Providing the premises, clinical infrastructure, and essential assets. No Capital Investment required. Operational Expenses (OpEx) Zero Operating Expenses. 100% Responsibility. Bringing in qualified doctors, staff, managing day-to-day operations, maintenance, and utility costs. Premises Usage Leasing/Providing the clinical space at Zero Rent. Exclusive use of the facility for the specified charitable medical operations. 3. Required MOU Content and Deliverables The successful lawyer will work collaboratively with our team to draft a final MOU document covering, but not limited to, the following key areas: Parties and Purpose: Formal introduction of both charitable organizations and the specific mission/location of the partnership. Asset and Expense Allocation: Detailed clauses specifying the capital vs. operating expense split as defined above. Operational Governance: Establishing a basic governance structure (e.g., a joint steering committee) for oversight, decision-making, and financial transparency. This will be collaboratively defined. Performance Metrics: Defining the joint goals and objectives of the clinical operations. Term and Exit Strategy: A clear, mutual, and non-fault-based termination clause requiring a minimum six-month written notice from either party. Intellectual Property & Branding: Defining the use of logos and ownership of any joint content created. Dispute Resolution: Standard clauses for mediation/arbitration. 4. Process, Consultation, and Buffer We value efficiency and clarity. The process will be as follows: Initial Consultation (Zoom/Call): A 30-45 minute meeting to discuss the specific MOU details, partnership dynamics, and required governance structure. Initial Draft Submission: Submission of the first complete draft based on the consultation. Review and Iterations (Buffer): We require a buffer for 1-2 rounds of revision/iterations after the initial draft. This is included in the project price to ensure the final document is mutually satisfactory to both charities. Finalized MOU: Delivery of the clean, executable final version. 5. Budget and Skills Required Budget: $$40.00$ ( Price) A Note on Budget: We understand this budget is low for professional legal services. As a small charity dedicated to a noble cause, our administrative funds are extremely limited. We are seeking a lawyer who is willing to contribute their expertise pro bono or at a heavily subsidized rate as a donation of skills to support healthcare for the poor and needy. Skills and Experience: Proven experience drafting Memoranda of Understanding, Partnership Agreements, or Collaboration Agreements, ideally within the non-profit or commercial sector involving asset/operational splits. Strong command of legal terminology and contract drafting principles. Ability to grasp complex financial and operational structures quickly ("no spoon-feeding" required). Excellent English communication skills and punctuality. We encourage professionals who share our vision and are seeking to contribute their talent to a highly impactful initiative to apply. We look forward to partnering with a passionate and skilled lawyer to formalize this crucial step in our mission.
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$30.00
+
+---
+
+Title: AI Search Visibility Expert
+Link: https://www.upwork.com/jobs/Search-Visibility-Expert_~021981288245771980758/?referrer_url_path=/nx/search/jobs/
+Description: We are looking for a specialist who can improve search visibility across AI platforms (ChatGPT, Perplexity, Gemini). Your main goal will be to make the name of companies, pages, and content discoverable and contextually relevant in AI-powered search results. If any help needed is some tasks for reaching visibility - we have helpers that you can manage. Just obtain the results. Briefly, we are a small smm agency from Eastern Europe and have a few local websites that we maintain, so want for them AI visibility in mentioned apps. Long term collaboration. Payment - 25$/monthly per company. We have at start 5 companies monthly. That's 125$/monthly for your job. When apply please share relevant experience, not just - I can do it. Say about similar projects, results, steps that were done.
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$125.00
+
+---
+
+Title: Seeking Experienced Bookkeepers & Tax Preparers for Global Accounting Team
+Link: https://www.upwork.com/jobs/Seeking-Experienced-Bookkeepers-Tax-Preparers-for-Global-Accounting-Team_~021981287852530941646/?referrer_url_path=/nx/search/jobs/
+Description: I’m building a collaborative team of experienced bookkeepers and tax preparers to deliver affordable, high-quality accounting solutions to clients around the world. All client acquisition and project management will be handled by me — your focus will be on delivering accurate, timely, and compliant bookkeeping or tax work. Each project will be assigned at a pre-agreed price, ensuring transparency and fair compensation. This structure allows everyone to win — I handle business generation and client relationships, while you focus on what you do best: maintaining clean books and preparing precise returns. Please include: A brief introduction about your background Your experience with bookkeeping and/or tax software Your preferred price range for small, medium, and large projects Availability (full-time/part-time/freelance)
+Job Type: Hourly: $5.00 - $10.00
+Experience Level: Intermediate
+Budget: Est. time:
+1 to 3 months, 30+ hrs/week
+
+---
+
+Title: Developer needed to build online tool with backend admin
+Link: https://www.upwork.com/jobs/Developer-needed-build-online-tool-with-span-class-highlight-backend-span-admin_~021981287442978127566/?referrer_url_path=/nx/search/jobs/
+Description: I have an excel spreadsheet that I'd like to convert into an online tool that requires a log in with admin and user features.
+Job Type: Hourly: $5.00 - $10.00
+Experience Level: Intermediate
+Budget: Est. time:
+1 to 3 months, Less than 30 hrs/week
+
+---
+
+Title: URGENT-Commission-Based Full-Cycle Client Acquisition Partner (Lead Gen, Outreach & Closing)
+Link: https://www.upwork.com/jobs/URGENT-Commission-Based-Full-Cycle-Client-Acquisition-Partner-Lead-Gen-Outreach-Closing_~021981286453784956886/?referrer_url_path=/nx/search/jobs/
+Description: I am a Social Media Manager & Strategist and Digital Project Manager offering monthly service packages ranging from $500 to $1700. I provide Instagram, TikTok, and LinkedIn management, content creation (reels, posts, carousels, stories), strategy development, and performance analytics. I am looking for an experienced commission-only sales closer or small team who can fully manage the client acquisition cycle - from lead generation to payment confirmation. Commission-based only for the first 1–2 clients / After successful client acquisition (1–2 deals), a retainer plus commission model will be introduced
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$5.00
+
+---
+
+Title: Ecommerce SEO Specialist for First Page Google Ranking
+Link: https://www.upwork.com/jobs/Ecommerce-SEO-Specialist-for-First-Page-Google-Ranking_~021981286375544161785/?referrer_url_path=/nx/search/jobs/
+Description: We’re looking for a results-oriented SEO Specialist who can help our website reach the first page of Google for high-intent keywords. If you have a proven record of improving search visibility and driving quality organic traffic — we’d love to work with you! Key Responsibilities Conduct comprehensive keyword research for the target niche Implement effective on-page and off-page SEO strategies Optimize meta tags, headings, and on-site content Build high-quality backlinks from relevant sources Perform competitor analysis and develop ranking strategies technical SEO issues (broken links, redirects, indexing) Submit site to major search engines and directories Improve domain authority through content and PR activities Deliverables Initial SEO and backlinks audit Keyword and competition analysis report On-page optimization Manual directory submissions Article and Web 2.0 postings Press release distribution Social bookmarking and classified submissions Forum participation and profile backlinks Regular ranking and progress reports Ideal Candidate 3+ years of hands-on SEO experience Strong understanding of Google ranking algorithms Proficient with SEO tools (Ahrefs, SEMrush, Moz, etc.) Excellent communication and reporting skills Committed to white-hat SEO practices only
+Job Type: Hourly: $5.00 - $8.00
+Experience Level: Intermediate
+Budget: Est. time:
+1 to 3 months, 30+ hrs/week
+
+---
+
+Title: Recover Disabled Instagram Account
+Link: https://www.upwork.com/jobs/Recover-Disabled-Instagram-Account_~021981238256463199950/?referrer_url_path=/nx/search/jobs/
+Description: Instagram recently disabled my account and I am looking for an individual to assist with recovery. This disabled account has caused other linked accounts to be suspended as a result
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$300.00
+
+---
+
+Title: Calendly to ActiveCampaign Automation Setup
+Link: https://www.upwork.com/jobs/Calendly-ActiveCampaign-Automation-Setup_~021981283797879086753/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking a skilled freelancer to set up an automation process between Calendly and ActiveCampaign. The goal is to trigger automated emails from ActiveCampaign when an appointment is created and to send reminders. The integration should be seamless and efficient NOT utilizing tools like Zapier or Make.
+Job Type: Hourly: $15.00 - $60.00
+Experience Level: Expert
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: Spreadsheet Protection Expert Needed
+Link: https://www.upwork.com/jobs/Spreadsheet-Protection-Expert-Needed_~021981283538557853345/?referrer_url_path=/nx/search/jobs/
+Description: We are looking for a skilled freelancer to assist us in protecting key elements of our spreadsheets, including formulas, logos, and other sensitive data. The ideal candidate will implement measures that prevent unauthorized copying and pasting while allowing authorized users to access and utilize the spreadsheet effectively. Your expertise will help us maintain data while ensuring functionality. If you have experience in spreadsheet security and can provide solutions tailored to our needs, we would love to hear from you.
+Job Type: Hourly: $5.00 - $15.00
+Experience Level: Intermediate
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: EB2-NIW Petition Writing & Filing Support for Cybersecurity and AI
+Link: https://www.upwork.com/jobs/EB2-NIW-Petition-Writing-Filing-Support-for-Cybersecurity-and_~021981282255907161593/?referrer_url_path=/nx/search/jobs/
+Description: Project Description: Comprehensive EB2-NIW (Advanced Degree) – Cybersecurity and AI – Petition Writing & Filing Support I am seeking an exceptionally detail-oriented and experienced legal writer/immigration consultant to fully own the drafting, documentation, and filing process for an EB2-NIW (National Interest Waiver) petition under the "Advanced Degree" category. The petition is for a professional specializing in Cybersecurity/Information Security, Digital Migration and Artificial Intelligence. The expert must deliver a turnkey solution, ensuring EVERY SINGLE COMPONENT of the petition is completed to USCIS standards, with no exceptions or outstanding tasks. NO ASPECT OF THE PROCESS MAY BE OMITTED OR DEFERRED. This includes drafting, supporting documentation, reference letters, evidence compilation, and filing guidance. Scope of Work: Full Ownership 1. Petition Drafting (Complete & Finalized): Draft a fully customized EB2-NIW petition letter, tailored to the applicant’s, Cybersecurity/Information Security expertise, highlighting: a. Advanced degree qualifications. b. National importance of their work. c. Demonstrated impact in the field. d. Why a waiver of the job offer requirement is justified. e. Ensure the petition is legally robust, persuasive, and free of errors. 2. Supporting Documentation (Exhaustive & Ready-to-Submit, at-least, bcut not limited to): a. Reference Letters: Draft at least 6 strong reference letters from industry experts, academics, or employers, emphasizing the applicant’s contributions and national impact. (Input shall be provided) b. Expert Opinions: Include written testimonials or affidavits from recognized authorities in Cybersecurity/Information Security. c. Evidence Compilation: Assist in organizing and summarizing all supporting evidence, such as: i. Academic transcripts, certifications, and professional licenses. ii. Published work (articles, research papers, patents). iii. Media coverage, awards, or recognitions. iv. Proof of professional memberships or leadership roles. 3. Supporting Articles (Original & Citation-Ready) Write 2–3 high-quality, original articles (5000 words each) on topics relevant to the applicant’s work in Cybersecurity/Information Security. These must: a. Demonstrate the applicant’s thought leadership. b. Be publishable in industry journals or blogs. c. Include citations and references to bolster credibility. 4. Filing Preparation & Guidance (-to-) a. Forms Completion: Fill out all required USCIS forms (e.g., I-140, G-28 or any others, as applicable) accurately and completely. b. Checklist & Review: Provide a final checklist to ensure no document or step is missed before submission. c. Filing Instructions: Deliver clear, step-by-step guidance on how and where to file the petition (mail/online), including fee payment details. 5. Revisions & Compliance Revisions of all documents until the petition meets USCIS standards and the applicant’s satisfaction. Strict adherence to USCIS guidelines: any deviations or oversights will be the expert’s responsibility to rectify at no additional cost. 6. Project Timeline & Deliverables Duration: 1 month ( deadline; no extensions). Deliverables (at minimum, but not limited to): a. Finalized EB2-NIW petition letter. b. Complete set of reference letters. c. Supporting articles (original content). d. Compiled evidence with summaries. e. Filled-out USCIS forms. f. Filing checklist and instructions. 7. Expert Requirements a. Proven experience drafting successful EB2-NIW petitions, specifically for Cybersecurity/Information Security professionals. b. No exceptions: The expert MUST GUARANTEE that all above tasks are included in their scope. No additional work or fees (as agreed in the beginning may be claimed later. c. Availability for revisions and queries, throughout the project. d. Must be available on call at short notices, considering the short timelines. 8. Budget & Terms a. -price contract (negotiable based on expertise). b. Payment terms: 50% upfront, 50% upon completion and approval of all deliverables. 9. Application Instructions Interested experts must provide: a. Examples of previously successful EB2-NIW petitions (redacted for confidentiality). b. A detailed plan for completing this project within the timeline. c. Confirmation that they accept full responsibility for the scope as defined above.
+Job Type: Fixed price
+Experience Level: Expert
+Budget: Est. budget:
+$50.00
+
+---
+
+Title: Full-Time Shopify Full-Stack Developer Needed (North America Time Zone)
+Link: https://www.upwork.com/jobs/Full-Time-Shopify-Full-Stack-Developer-Needed-North-America-Time-Zone_~021981281050648989654/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking a skilled Full-Stack Developer with extensive experience in Shopify to join our team on a full-time basis. The ideal candidate will be adept at both frontend and backend development, ensuring a seamless user experience on our Shopify platform. You will be responsible for customizing themes and optimizing performance. Collaboration with our ecommerce teams is essential. If you are organized, proactive, and passionate about e-commerce development, we want to hear from you!
+Job Type: Fixed price
+Experience Level: Expert
+Budget: Est. budget:
+$1,000.00
+
+---
+
+Title: Zapier x Google Sheets x Polymer Search Dashboard
+Link: https://www.upwork.com/jobs/Zapier-Google-Sheets-Polymer-Search-Dashboard_~021981280961239137998/?referrer_url_path=/nx/search/jobs/
+Description: Hi there! I am looking for someone to: 1. Pull raw data from Google Ads, LinkedIn Campaign Manager, Meta Ads Manager, and customer data from HubSpot into a Google Sheet using Zapier. 2. Create a merged data set to combine campaign performance and actual sales (campaign data + HubSpot customer data) for accurate ROI analysis 3. Connect the Google Sheet with Polymer Search (dashboard software) and create graphs, widgets and tables that answer business-relevant questions. Non-negotiable: - Zapier expertise in setting up functioning Zaps across different tools quickly - Data analysis understanding and the ability to read and interpret data - Dashboard setup experience and the ability to visualise data in a way that helps answers business-relevant questions
+Job Type: Hourly: $13.00 - $20.00
+Experience Level: Expert
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: AWS EC2 Database and File Updates
+Link: https://www.upwork.com/jobs/AWS-EC2-Database-and-File-Updates_~021981280452678377121/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking a skilled freelancer to update databases, files, and recompile changes to a website hosted on AWS EC2. The ideal candidate will have experience with AWS services and be able to efficiently manage and update database and file systems.
+Job Type: Hourly: $15.00 - $30.00
+Experience Level: Intermediate
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: Close CRM Setup and Integration Specialist
+Link: https://www.upwork.com/jobs/Close-CRM-Setup-and-span-class-highlight-Integration-span-Specialist_~021981280124319925753/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking an experienced Close CRM expert to help us set up and integrate our sales process. This includes configuring the CRM from scratch, integrating with Apollo and Clay AI, and providing training for our team.
+Job Type: Hourly: $10.00 - $20.00
+Experience Level: Intermediate
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: Podcast Audio Editor Needed — Quick Turnaround for One Episode (Riverside.fm)
+Link: https://www.upwork.com/jobs/Podcast-Audio-Editor-Needed-Quick-Turnaround-for-One-Episode-Riverside_~021981279317021263353/?referrer_url_path=/nx/search/jobs/
+Description: I’m looking for a skilled (and fast!) podcast editor who can help me out with one episode I recorded on Riverside.fm. The main issue is that the audio tracks are overlapping, and I’ve been having a tough time troubleshooting it myself. I’d love to work with someone who can jump in, clean up and sync the audio, and get it to a place where I can edit smoothly inside Riverside (or Descript if that’s easier). Here’s what I need help with: the overlapping audio between separate tracks Syncing the conversation so it flows naturally Cleaning up background noise and balancing sound levels Exporting or delivering files that are easy for me to continue editing You’d be a great fit if you: Have experience editing podcasts recorded in Riverside.fm or Descript Know your way around audio syncing and cleanup Communicate clearly and can work on a quick turnaround (ideally 24–48 hours) What I’ll need from you: Clean, synced audio tracks ready for me to finish editing If this sounds like your kind of project, please send me: A quick intro about your experience A link to a podcast episode you’ve edited Your turnaround time and rate Thank you so much!
+Job Type: Hourly: $10.00 - $30.00
+Experience Level: Entry Level
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: Backend Developer for Inventory Management with Spring Boot
+Link: https://www.upwork.com/jobs/span-class-highlight-Backend-span-Developer-for-Inventory-Management-with-Spring-Boot_~021981279196384691705/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking an experienced backend developer to support our inventory management system. The ideal candidate will have at least 2 years of experience and be proficient in Spring Boot. You will work on developing and maintaining backend services, ensuring high performance and responsiveness to requests from the front-. Collaboration with the front- team and adherence to project deadlines are essential. If you're passionate about development and eager to contribute to a critical area of our business, we want to hear from you!
+Job Type: Hourly: $5.00 - $5.00
+Experience Level: Intermediate
+Budget: Est. time:
+1 to 3 months, Less than 30 hrs/week
+
+---
+
+Title: 3D Revit Modeling from Point Cloud (Scan-to-BIM Project)
+Link: https://www.upwork.com/jobs/Revit-Modeling-from-Point-Cloud-Scan-BIM-Project_~021981278673119076001/?referrer_url_path=/nx/search/jobs/
+Description: Job Description We are looking for an experienced Revit modeler (or small team) to create a 3D BIM model in Autodesk Revit based on a point cloud (laser scan data). This is a project-based collaboration, with the potential for a long-term partnership if the results and workflow align well. Scope of Work - Convert the supplied point cloud (.E57) into an accurate 3D architectural model in Revit (.RVT) - Follow the same modeling logic, element categorization, and level of detail (LOD) as demonstrated in our example project - Model architectural elements such as walls, floors, roofs, windows, doors, and stairs - Structural or MEP elements are a plus (please specify if you can include these) Reference Files To clarify the scope and expectations, we provide: - Example input (A): sample point cloud - Example output (B): corresponding Revit model prepared by our in-house team For this job, you will receive: - Test input (C): new point cloud for quotation and modeling - Expected output (D): Revit model created from C in the same way as B was created from A 📁 Example files A and B are available here: https://www.checkterra.cz/download/Scan_to_Revit_TestProject_2025.zip Before quoting, please review A and B carefully to understand the required detail level and structure. Note: The listed budget is only a placeholder. Please review the sample files (A–B) and propose your own price for project C.
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$500.00
+
+---
+
+Title: Shopify Payment Gateway Plugin (ROR) Modification Needed
+Link: https://www.upwork.com/jobs/Shopify-Payment-Gateway-Plugin-ROR-Modification-Needed_~021981274572060049102/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking a skilled developer to modify our existing Shopify payment gateway plugin. Currently, it is non-functional due to some missing steps. The ideal candidate should have experience with Shopify API and plugin development to troubleshoot and implement the necessary changes effectively. Your ability to identify issues and provide solutions promptly will be crucial for this project. If you're passionate about e-commerce solutions and have a proven track record in plugin modifications, we want to hear from you!
+Job Type: Hourly: $12.00 - $27.00
+Experience Level: Intermediate
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: Expert en Automatisation de la Création d'Articles SEO
+Link: https://www.upwork.com/jobs/Expert-Automatisation-ation-Articles-SEO_~021981273586296544929/?referrer_url_path=/nx/search/jobs/
+Description: Nous recherchons un expert en automatisation pour mettre en œuvre un processus déjà établi de création d'articles SEO. Votre rôle sera d'appliquer ce processus efficacement pour générer du contenu optimisé. Une compréhension des techniques SEO et une capacité à automatiser les tâches sont essentielles. Si vous avez de l'expérience dans l'automatisation de la rédaction de contenu et que vous êtes capable de respecter des délais, nous serions ravis de collaborer avec vous.
+Job Type: Hourly: $6.00 - $8.00
+Experience Level: Intermediate
+Budget: Est. time:
+1 to 3 months, Less than 30 hrs/week
+
+---
+
+Title: Operations & Executive Assistant for Automotive Company (Full-Time, Remote)
+Link: https://www.upwork.com/jobs/Operations-Executive-Assistant-for-Automotive-Company-Full-Time-Remote_~021981272138956754902/?referrer_url_path=/nx/search/jobs/
+Description: We’re RoamwithRove, a growing automotive company based in Mississauga, Ontario (Canada). We specialize in car rentals, co-hosting, detailing, insurance, and car sales, and we’re expanding rapidly. We’re looking for a long-term, reliable, and organized assistant who can handle daily operations, client communication, hiring, finances, and admin work while keeping everything running smoothly behind the scenes. ⸻ 🚀 Role Overview As the Virtual Operations & Executive Assistant, you’ll work directly with the CEO to manage the company’s day-to-day operations. You’ll be responsible for handling calls, customer communication, scheduling, payments, and management of multiple services under RoamwithRove. This is not just a clerical role — we’re looking for someone who takes ownership, thinks ahead, and treats the business like their own. ⸻ 🔧 Responsibilities Administration & Communication • Answer phone calls, emails, and WhatsApp messages from clients and partners. • Manage calendars, bookings, and service appointments. • Create, organize, and update Google Sheets for reports and tracking. • Handle invoices, deposits, payouts, and expense tracking. Customer & Rental Management • Manage rental inquiries and client follow-ups. • Update vehicle availability, contracts, and client communications. • Coordinate between customers, mechanics, and detailers. • Handle insurance claim rentals and replacements. Human Resources & Hiring • Post job listings on Indeed and other platforms. • Screen, schedule, and conduct initial interviews. • Onboard new hires (mechanics, cleaners, drivers, etc.). Finance & Operations • Record payments, balances, and company expenses. • Generate weekly and monthly financial reports. • Monitor outstanding payments or pending invoices. General Management • Support the CEO with special projects, business documentation, and client files. • Keep records organized in Google Drive. • Follow up with customers and vendors professionally. ⸻ 💼 Requirements • Proven experience as a Virtual Assistant, Operations Manager, or Executive Assistant. • Excellent English communication (spoken & written). • Strong organizational and multitasking skills. • Comfortable using Google Workspace (Docs, Sheets, Drive), WhatsApp, Excel, Canva, and CRMs. • Reliable internet and ability to work during Canadian Eastern Time (9AM–5PM EST). • Experience with automotive, insurance, or service-based businesses is a plus. Please include: 1. A short intro video or voice note introducing yourself (optional but preferred). 2. A summary of your past experience in operations, admin, or customer service. 3. Examples of tools or systems you’ve used before (Google Sheets, CRMs, Jobber, etc.). 4. Why you’d be a great fit for RoamwithRove.
+Job Type: Hourly
+Experience Level: Expert
+Budget: Est. time:
+More than 6 months, 30+ hrs/week
+
+---
+
+Title: Integrate Square POS Loyalty API with Shopify Loyalty Program
+Link: https://www.upwork.com/jobs/span-class-highlight-Integrate-span-Square-POS-Loyalty-span-class-highlight-API-span-with-Shopify-Loyalty-Program_~021981272656691977889/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking a skilled developer to integrate the Square POS loyalty API with our Shopify loyalty program. The goal is to ensure seamless operation of the loyalty program across both platforms, enhancing customer experience and loyalty tracking.
+Job Type: Hourly: $12.00 - $55.00
+Experience Level: Intermediate
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: AI Content Quality Controller & message Specialist I Be the Human Checkpoint for AI-Powered Outreach
+Link: https://www.upwork.com/jobs/Content-Quality-Controller-message-Specialist-the-Human-Checkpoint-for-Powered-Outreach_~021981271796408073934/?referrer_url_path=/nx/search/jobs/
+Description: AI Content Quality Controller and message Specialist I Be the Human Checkpoint for AI-Powered Outreach I Part-Time (4 hours/day) | Remote About Grow Grow is an award-winning B2B growth agency and consultancy, co-founded and led by James and Laura Pardoe. We’ve generated over $100M for clients through psychologically optimised digital marketing that delivers strong ROI. We’re known for our Western work ethic, consistent quality, and a proven track record with major brands. Our holistic approach helps clients achieve measurable revenue growth, with some seeing returns of over 1,000%. As AI reshaped the agency landscape, we chose to lead the change. We’ve become specialists in combining AI and human psychology to build real connections, not just automation. That expertise led us to create Handshake – a humanised, AI-powered outreach platform that builds genuine relationships while keeping the efficiency and scale modern businesses need. About Handshake: We're not building another cold outreach tool. We're building AI that creates genuine human connections. Handshake is an AI-powered outreach platform that helps B2B companies book qualified meetings through psychologically optimised conversations. But here's the difference: our AI doesn't just blast templates. It builds relationships using multiple specialist AI systems that adapt to each conversation. We're at an exciting stage: Our AI is good, but it needs a human expert to ensure it stays great. That's where you come in. The Role: Your Mission as the Human Checkpoint You're the final quality guardian before AI-generated messages reach real prospects. Think of yourself as the bridge between AI precision and human authenticity. You'll review messages, approve what works brilliantly, refine what needs polish, and flag what misses the mark. Your insights help us understand where our AI excels and where it needs course correction. This isn't just proofreading. You're protecting client reputations, ensuring every message feels genuinely human, and helping businesses book more meetings through conversations that build real relationships. You'll work across multiple client accounts, each with their own voice, industry, and objectives. Some days you'll approve messages rapidly because the AI nailed it. Other days you'll catch subtle nuances that could make or break a conversation. Both are equally valuable. What You'll Do Daily - Core Responsibilities: - Review and approve AI-generated outreach messages before they're sent - Edit content to perfectly match each client's brand voice and tone - Identify when messages need minor tweaks vs. complete rewrites - Maintain consistency across all client communications - Flag potential issues with messaging, cultural sensitivity, or appropriateness - Report patterns and opportunities for AI improvement to the account manager - Keep detailed quality logs and provide actionable feedback on AI performance - Balance speed with accuracy (we need quick turnarounds without compromising quality) - Time Commitment: 4 hours daily during UAE business hours You're the Perfect Fit If You Have Must-Haves: Linguistic Excellence : - Exceptional English proficiency (native or near-native level). Deep understanding of British vs. American English nuances (spelling, grammar, idioms, tone) - You instinctively know when to write "optimise" vs. "optimize" or "whilst" vs. "while". - Proven track record working with UK, US, Canadian, or Australian clients. You understand the difference between UK formality and US directness Strong grasp of professional business writing styles - Western Client Experience - Understanding of Western business etiquette and communication styles Sharp Eye for Detail - You catch typos, inconsistencies, and tonal shifts that others miss. - You notice when something is technically correct but doesn't feel quite right. You're bothered by small errors and driven to them AI Literacy - Experience working with AI tools and understanding their strengths and limitations - You know AI is brilliant but imperfect, and you're curious about making it better Comfortable learning new platforms quickly - Professional Background - Copy editing, proofreading, or content review experience preferred Brand-conscious mindset with ability to adapt tone for different audiences - Understanding of how messaging impacts business outcomes Skills That Set You Apart: - Cultural intelligence across Western business communication styles - Quick learner who grasps new industries and terminology rapidly - Strong time management handling multiple accounts simultaneously - Proactive communicator comfortable asking questions and raising concerns - Strategic thinker who understands the psychology behind effective messaging - Discretion with confidential client information Nice to Have: - Marketing, communications | Sales outreach or LinkedIn messaging experience | Familiarity with brand style guides | Experience reviewing AI-generated content What We Offer - Professional Growth: Comprehensive training, direct collaboration with our team, regular feedback, and front-row seat to cutting-edge AI development. - Flexibility: Fully remote work from anywhere with reliable internet, and flexible scheduling within UAE and UK business hours. While the role offers flexibility, responsiveness is key. You need to be available to reply promptly when a lead or urgent client message comes in. - Experience: Exposure to diverse B2B brands, learn what makes successful outreach work, understand psychological principles behind high-converting conversations - Growth Potential: Opportunity to expand to full-time as we scale and take on additional responsibilities Compensation: Competitive part-time hourly rate with potential for increased hours How to Apply We want to see how you think, not just what you've done. Please send us 1. Your CV: Highlight relevant experience with: - Western clients or audiences - Content review, editing, or proofreading - AI tools or platforms - Remote work 2. We want to see how you think, spot details, and solve real problems you'll face in this role. - Part A: AI Detection Skills (100-120 words) What are 3-4 specific telltale signs that a professional business message was written by AI rather than a human? Don't just say "it sounds robotic" be precise. What patterns do you notice? What phrases, structures, or quirks give it away? Think about rhythm, word choice, sentence structure, personality (or lack of it), and anything else that makes you think "hmm, that's not quite human." We want to understand your eye for detail and how you evaluate content quality. Part B: Language Nuance in Context You're reviewing an outreach message for a UK-based financial services client targeting CFOs in London. The AI has written: "We help organizations optimize their operations and realize significant cost savings—leveraging cutting-edge solutions that drive measurable results. Our streamlined processes have gotten great results for our clients, helping them prioritize their most impactful initiatives. We're passionate about empowering businesses to unlock their full potential, and we'd love to connect and share some key learnings from similar organizations in the financial sector." Your task: - Identify ALL the issues: What's wrong with this message for a UK financial services audience? Consider language (British vs. American English), tone, AI-generated patterns, corporate jargon overload, and cultural appropriateness. List at least 4-5 specific problems. - it: Rewrite this message (2-3 sentences) using proper British English and appropriate tone for a formal UK financial audience. Make it feel human, professional, and relevant. Explain your choices: In 2-3 sentences, tell us why you made the changes you did. What matters when communicating with UK vs. US financial audiences beyond just spelling? Why This Role Matters Every message we send represents a client's brand and could be the start of a valuable business relationship. You're not just checking grammar, you're protecting reputations, building trust, and helping businesses grow. In a world where AI is everywhere, the human touch has never been more valuable. If you're someone who cares about the details, understands the power of words, and wants to work at the intersection of AI and human connection, we'd love to hear from you. Ready to be our human checkpoint? We're excited to meet you.
+Job Type: Hourly: $8.00 - $13.00
+Experience Level: Intermediate
+Budget: Est. time:
+More than 6 months, 30+ hrs/week
+
+---
+
+Title: Comprehensive Stakeholder & Risk Analysis Tool in Excel
+Link: https://www.upwork.com/jobs/Comprehensive-Stakeholder-Risk-Analysis-Tool-Excel_~021981270182301355990/?referrer_url_path=/nx/search/jobs/
+Description: I am looking for an experienced Excel developer or business analyst to create an integrated Excel tool for Stakeholder / Interested Party Analysis, Relevance Matrix, and Risk Analysis. The goal is to have a fully connected workflow — from defining the context and stakeholders to evaluating relevance and risks, and defining necessary actions or measures. Scope of Work: 1. Stakeholder / Interested Party Analysis Sheet Create a structured table including the following columns: Number Factor / Topic Type (SH or IP) – Stakeholder or Interested Party Description Influence on the Organization How the Organization Influences Them Assessment / Rating Relevance Classification – linked to a 2x2 relevance matrix 2. Relevance Matrix (2x2) Automatically assign stakeholders into the correct cell of the 2x2 matrix based on relevance / influence scores. The matrix should visually represent high vs low relevance and influence. 3. Automatic Risk Transfer If a stakeholder or factor is rated as high in relevance or risk, it should automatically be transferred to a Risk Analysis sheet. 4. Risk Analysis Sheet Each transferred item should include: Risk Number (auto-generated) Risk Description (auto from stakeholder sheet) Initial Rating (Before Measures) Measures / Actions Residual Rating (After Measures) Need for Action (Yes/No) Responsible Person (optional) 5. Dropdown & Manual Input Functions The system must allow the user to select topics via dropdown lists (linked to previously defined stakeholders or themes). Users should also be able to manually add new topics if needed. 6. & Logic The entire process must be fully connected: Context ➜ Stakeholder ➜ Relevance ➜ Risk ➜ Actions All data must flow automatically where possible (e.g., high relevance triggers risk entry). Deliverables: Excel file with all described functions and logic implemented. Clean, professional layout (with clear formatting and instructions). Optional: short documentation or embedded help notes explaining how to use it. Skills Required: Advanced Microsoft Excel (Formulas, Conditional Logic, Data Validation, VBA optional) Experience in Risk & Stakeholder Management Fluent English communication
+Job Type: Fixed price
+Experience Level: Expert
+Budget: Est. budget:
+$500.00
+
+---
+
+Title: Bookkeeper Needed for Credit Card & Bank Statement Organization
+Link: https://www.upwork.com/jobs/Bookkeeper-Needed-for-Credit-Card-Bank-Statement-Organization_~021981269773637486073/?referrer_url_path=/nx/search/jobs/
+Description: I’m looking for a detail-oriented bookkeeper or accountant to review and categorize two years of personal and business transactions from credit card and bank statements. The work involves organizing transactions for two tax calendar years: • Sept 2023 – Sept 2024 • Sept 2024 – Sept 2025 You’ll separate all expenses and deposits on a month-by-month basis, summarize category totals, and provide clean Excel or Google Sheets reports ready for tax filing and business analysis. ________________________________________ Scope of Work 1️⃣ Transaction Organization • Review all bank and credit card statements from Sept 2023 – Sept 2025. • Record and categorize every transaction in a spreadsheet. 2️⃣ Categorization Requirements Each month’s sheet should include subtotals for: • Amazon purchases (monthly totals) • eBay purchases (monthly totals) • Other online purchases (e.g., Walmart, third-party websites) • Google Ads / Meta Ads / Online Advertising • Travel-related (Flights, Hotels, Airbnb, Uber, etc.) • Deposits/Incomes, such as Shopify, PayPal, Stripe, or bank transfers • Miscellaneous or personal expenses 3️⃣ Deliverables • Two organized Excel/Google Sheets files: o File 1: Sept 2023 – Sept 2024 o File 2: Sept 2024 – Sept 2025 • Each file should include: o Separate tabs for each month o A summary tab with totals by category and month o Notes for unclear transactions (if any) ________________________________________ Requirements • Proven bookkeeping experience (QuickBooks, Excel, or Google Sheets) • Strong attention to detail and accuracy • Ability to categorize expenses clearly • Good English communication skills ________________________________________ What You’ll Receive • All bank and credit card statements in CSV format • Access to reference notes (e.g., business names linked to purchases) ________________________________________ How to Apply Please include: 1. A short summary of similar work you’ve done 3. Estimated time to complete the project 4. Your rate ( or hourly)
+Job Type: Hourly: $10.00 - $20.00
+Experience Level: Entry Level
+Budget: Est. time:
+More than 6 months, Less than 30 hrs/week
+
+---
+
+Title: Extract Live Comments from 2-Hour Video into Google Doc (Name + Comment Only)
+Link: https://www.upwork.com/jobs/Extract-Live-Comments-from-Hour-Video-into-Google-Doc-Name-Comment-Only_~021981268458924508665/?referrer_url_path=/nx/search/jobs/
+Description: I need someone to watch a 2-hour video recording of a live session and extract all viewer comments that appear on screen during the broadcast. This is not a full transcription of what’s being said - I only need the on-screen live comments that were posted by viewers during the session. For each comment, I need the following captured: • The name of the commenter (as shown on screen) • The comment text (exactly as written) You’ll be watching the video and manually entering this into a Google Doc or Google Sheet. I’ll provide access to the video. • Must be detail-oriented - I want every comment captured, not just highlights • Able to format consistently (e.g., clean, readable layout in the document) • Familiar with English-language content (the video is in English) • Able to work independently and deliver on time Deadline: Ideally within 2–3 days of accepting the job - please let me know your availability. Budget: Please quote a price for the full 2-hour video. I’m open to reasonable offers based on time and complexity, but this is not a full audio transcription, so pricing should reflect that. Estimate: €30 • The video is clear and the comments are visible, though some may appear quickly or overlap, so attention to detail is important. • If you’ve done any similar work (live chat logs, social media comment tracking, subtitles, etc.), feel free to share examples.
+Job Type: Fixed price
+Experience Level: Entry Level
+Budget: Est. budget:
+$30.00
+
+---
+
+Title: AI Call Agent Developer | Turkish ASR , TTS, Conversational AI, SIP PBX Integration
+Link: https://www.upwork.com/jobs/Call-Agent-Developer-Turkish-ASR-TTS-Conversational-SIP-PBX-span-class-highlight-Integration-span_~021981262878469119649/?referrer_url_path=/nx/search/jobs/
+Description: Hello, A project is being developed to create AI-powered voice bots for over-the-phone appointment booking and complaint-handling scenarios. The goal is to migrate the existing system to offline models with full Turkish ASR (Automatic Speech Recognition) and TTS (Text-to-Speech) support. Key focus areas include: 1. Offline / local model deployment 2. Turkish ASR (Automatic Speech Recognition) and TTS (Text-to-Speech) 3. Appointment booking and tool-execution features 4. with Asterisk or FreeSWITCH (SIP PBX-based systems) If this aligns with your skills, it would be great to discuss the details further.
+Job Type: Hourly
+Experience Level: Intermediate
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: NetSuite Developer
+Link: https://www.upwork.com/jobs/NetSuite-Developer_~021981265445736763350/?referrer_url_path=/nx/search/jobs/
+Description: Description: We are seeking an experienced NetSuite Developer — ideally someone who has previously worked at NetSuite (Oracle) or directly with the NetSuite platform at a high level — to help us optimize, customize, and expand our ERP environment. This role requires deep technical knowledge of NetSuite architecture, SuiteScript, workflows, , and customizations, along with a strong understanding of business processes in manufacturing, inventory, and order management. You’ll play a key role in improving automation, streamlining workflows, and supporting system migrations and custom reports.
+Job Type: Hourly: $20.00 - $40.00
+Experience Level: Intermediate
+Budget: Est. time:
+1 to 3 months, Less than 30 hrs/week
+
+---
+
+Title: Zoom VOICE recording /acting for a group of FOUR
+Link: https://www.upwork.com/jobs/Zoom-VOICE-recording-acting-for-group-FOUR_~021981265150074805921/?referrer_url_path=/nx/search/jobs/
+Description: I already have a complete 15-minute professional script for a Mastermind coaching session focused on leadership, emotional intelligence, and accountability in remote Caribbean teams. I’m hiring one person or production team to: Provide all 4 voice actors, so you’ll NEED 3 persons to record with you (2 male, 2 female) Conduct and record the full Zoom session (audio only) Deliver two complete final recordings (2 separate files) The tone must sound natural, authentic, and conversational — as if four professionals are genuinely speaking over Zoom, with light laughter, smooth interjections, and realistic pauses. 🎧 Characters & Accents: Female 1 NJ (Female, Jamaican accent) – Facilitator; warm, calm, and professional Femail 2 Kara (Female, American accent) – OD Practitioner; supportive, thoughtful Male 1 Marlon (Male, Jamaican accent) – Business owner; grounded, relatable Male 2 Andre (Male, Trinidadian accent) – Project manager; composed, friendly 🗣️ Requirements: You must provide all FOUR actors. You must host and record the Zoom call (audio only). Change each Zoom participant's name to match the script characters before recording. Deliver two separate final takes (2 full files) of the 15-minute conversation. Keep tone realistic — no robotic or dramatic acting. Light overlap, laughter, and human flow are encouraged. Final audio should be clean, leveled, and ready to play.
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$47.00
+
+---
+
+Title: Senior DSP Engineer for VYTACH
+Link: https://www.upwork.com/jobs/Senior-DSP-Engineer-for-VYTACH_~021981264325252341409/?referrer_url_path=/nx/search/jobs/
+Description: VYTACH is a Ukrainian technology company that develops products in the fields of navigation systems and digital signal processing. These are two major areas that enhance the existing technical solutions of manufacturing companies in various sectors, from deftech to logistics and agriculture. We create various types of radio frequency measurement systems and are looking for a Senior DSP Engineer to join our team. The role involves developing and optimizing digital signal processing algorithms, working with FPGA, and with other system modules.
+Job Type: Hourly: $35.00 - $50.00
+Experience Level: Expert
+Budget: Est. time:
+More than 6 months, 30+ hrs/week
+
+---
+
+Title: Freelance Interview Conductors for Technical Roles
+Link: https://www.upwork.com/jobs/Freelance-Interview-Conductors-for-Technical-Roles_~021981264394463952590/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking experienced freelancers to assist in conducting interviews as part of our recruitment process. The ideal candidates should have strong communication skills and the ability to assess applicants effectively. You will be responsible for preparing interview questions, facilitating discussions, and providing feedback on candidates’ performance. This is an excellent opportunity to contribute to our hiring efforts on a freelance basis. The interviews will follow a structured format that includes reviewing code challenges and conducting LeetCode-style tests with candidates. You’ll be expected to have your camera on during interviews to ensure clear and professional communication. Since you’ll be representing our company, we expect a high level of professionalism in every interaction.
+Job Type: Hourly: $10.00 - $50.00
+Experience Level: Intermediate
+Budget: Est. time:
+More than 6 months, 30+ hrs/week
+
+---
+
+Title: Implement State BFS Algorithm Solution in C++
+Link: https://www.upwork.com/jobs/Implement-State-BFS-Algorithm-Solution_~021981263001992646614/?referrer_url_path=/nx/search/jobs/
+Description: I am seeking a skilled freelancer to implement a solution based on the state BFS algorithm in C++. The solution must be integrated into a provided template and pass all included tests. A detailed explanation of the task will be provided to guide the implementation process.
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$50.00
+
+---
+
+Title: GoHighLevel Expert for Small Setup & Configuration
+Link: https://www.upwork.com/jobs/GoHighLevel-Expert-for-Small-Setup-Configuration_~021981262347991352825/?referrer_url_path=/nx/search/jobs/
+Description: We’re looking for a skilled GoHighLevel (GHL) expert to help with a small setup task. The job involves basic configuration, testing, or updates inside an existing GHL account. Tasks May Include: • Creating or updating a simple funnel or form • Setting up a short automation or workflow • Fixing tagging, triggers, or pipeline setup • Updating an existing campaign or calendar • Basic troubleshooting within GHL Requirements: • Proven experience with GoHighLevel • Ability to complete small tasks quickly and accurately • Good communication and responsiveness • Attention to detail Budget: $10 ( Price) Timeline: 1–2 hours
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$10.00
+
+---
+
+Title: Fresh Sales CRM Specialist
+Link: https://www.upwork.com/jobs/Fresh-Sales-CRM-Specialist_~021981260603962000889/?referrer_url_path=/nx/search/jobs/
+Description: We’re looking for an experienced Freshsales CRM specialist to set up, integrate, and optimise the platform for our clients business. This involves helping us connect workflows and link tasks to deals and projects.
+Job Type: Hourly
+Experience Level: Intermediate
+Budget: Est. time:
+1 to 3 months, Not sure
+
+---
+
+Title: Blockchain / Integration Developer (Web3)
+Link: https://www.upwork.com/jobs/Blockchain-span-class-highlight-Integration-span-Developer-Web3_~021981260302777794254/?referrer_url_path=/nx/search/jobs/
+Description: We’re looking for a Blockchain Developer to integrate blockchain logic into our wallet. Responsibilities: Implement wallet creation/import, transaction signing, gas fee logic. Integrate EVM chains (Ethereum, Polygon, BSC) and later multi-chain (Solana, etc.). Connect to bridge SDKs/APIs (LayerZero, Wormhole, etc.). Collaborate with frontend and to ensure smooth flows. Requirements: Strong in Web3.js/ethers.js and blockchain mechanics. Understanding of smart contracts (ERC-20/721/1155). Bonus: Solidity/Rust, prior wallet/DeFi .
+Job Type: Fixed price
+Experience Level: Expert
+Budget: Est. budget:
+$300.00
+
+---
+
+Title: LinkedIn Outreach Specialist Needed
+Link: https://www.upwork.com/jobs/LinkedIn-Outreach-Specialist-Needed_~021981258315569684129/?referrer_url_path=/nx/search/jobs/
+Description: We’re looking for a LinkedIn Outreach Specialist who knows how to start real conversations — not spam. Your main goal will be to connect with potential clients and partners through smart, personalized outreach strategies that actually get replies. You should be confident using LinkedIn tools (Sales Navigator, CRM, or automation tools) and skilled in: Writing personalized, high-response messages Building and managing outreach campaigns Tracking and improving campaign performance Generating qualified leads through relationship-based networking What We’re Looking For: Proven experience in LinkedIn outreach and B2B lead generation Strong communication skills Portfolio or case studies of successful outreach campaigns Preferably based in India Budget: Open to discussion, quality and experience matter more than pricing. If you’ve got the skills and results to it up, we’d love to see your portfolio and talk about how we can work together.
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$10.00
+
+---
+
+Title: DNS Email Setup Specialist Needed
+Link: https://www.upwork.com/jobs/DNS-Email-Setup-Specialist-Needed_~021981258808166548986/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking an experienced professional to help resolve issues with our DNS email setup (GoDaddy and Google Workspace). Our emails are consistently being flagged as spam, and we need someone to troubleshoot and fix this problem to ensure reliable email delivery. We need someone to do the process live (I don't want to share my passwords)
+Job Type: Hourly: $20.00 - $50.00
+Experience Level: Intermediate
+Budget: Est. time:
+Less than 1 month, Not sure
+
+---
+
+Title: Senior AI Engineer (LLM Fine-Tuning, Hosting, & Agent Development)
+Link: https://www.upwork.com/jobs/Senior-Engineer-LLM-Fine-Tuning-Hosting-Agent-Development_~021981257175506413241/?referrer_url_path=/nx/search/jobs/
+Description: Core88 is an AI execution partner delivering secure, private AI infrastructures for enterprises. We build AI systems that speak the company’s business language, automate workflows, and deliver measurable outcomes in under 90 days. We are looking for a highly skilled AI Engineer with real-world experience deploying Large Language Models (LLMs), customizing them with enterprise data, and building AI agents that drive automation across workflows. 🚀 Role Overview You will be responsible for: Hosting and deploying LLMs (ideally on Azure OpenAI, AWS Bedrock, or similar platforms) Fine-tuning base models (such as GPT-4, Llama, Mistral, etc.) using company-specific data Building retrieval-augmented generation (RAG) pipelines and indexing enterprise knowledge bases Developing intelligent AI agents that execute tasks, with , and automate business workflows Ensuring security, scalability, and performance in enterprise environments ✅ Required Skills & Experience 3+ years in AI/ML engineering with hands-on LLM deployment Proven experience in fine-tuning & supervised training using JSONL or custom data pipelines Experience with vector databases & indexing (Azure AI Search, Pinecone, Weaviate, Chroma, etc.) Strong knowledge of AI agent development using frameworks like LangChain, AutoGen, DSPy, or custom orchestration Experience deploying secure models using Azure, AWS, GCP, or on-prem cloud Ability to build -based automations and AI into enterprise systems Familiar with data privacy, isolated hosting, and compliance requirements 🌐 Preferred (Not Required) Experience with multi-tenant architectures Knowledge of SOC compliance, enterprise security models Familiarity with RAG-based chat systems & vector embeddings 🎯 What You Will Work On Standing up a secure private AI environment for enterprise clients Fine-tuning models on internal knowledge bases Deploying scalable endpoints Building intelligent AI agents to automate specific workflows (HR, Finance, Operations, Customer Service, etc.) 💡 Engagement Type Contract / Project-based with potential long-term engagement Remote (MENA timezone alignment preferred, but not required) Competitive compensation based on skill and impact If you have the capability to turn AI strategy into working systems — we want to talk to you.
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$6,000.00
+
+---
+
+Title: Update Java app dependencies to the latest versions (Spring Boot 3.3.3, Java 21)
+Link: https://www.upwork.com/jobs/Update-Java-app-dependencies-the-latest-versions-Spring-Boot-Java_~021981256822687892985/?referrer_url_path=/nx/search/jobs/
+Description: I have a small Spring Boot project running on older dependencies (Spring Boot 2.x, Java 11) that needs to be updated to the latest versions. The app works fine, but it’s time to modernize it — just want to update the libraries and make sure everything builds and runs correctly afterward. 💰 Budget: $50 () Scope Upgrade project to Spring Boot 3.3.3 and Java 21 Update outdated dependencies in pom.xml (Spring Data, Hibernate, MySQL driver, etc.) minor compatibility issues or deprecated imports Verify successful build and startup Provide a short summary of changes made Tech stack Java 21 Spring Boot 3.3.3 Maven MySQL, REST I will provide GitHub access to the repository Build logs / test credentials if needed Expected outcome ✅ App builds successfully on Java 21 ✅ All dependencies updated to stable versions ✅ App starts normally and endpoints respond ✅ Short summary of updates
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$50.00
+
+---
+
+Title: Looking for Monday.com Specialist to Optimize CRM Board Performance
+Link: https://www.upwork.com/jobs/Looking-for-Monday-com-Specialist-Optimize-CRM-Board-Performance_~021981255876790511289/?referrer_url_path=/nx/search/jobs/
+Description: We’re looking for an experienced Monday.com expert who can help us fix a recurring automation issue and optimize our current board setup. We’re a team of 20 people using Monday as a CRM system with automations that update fields when certain actions are triggered. Currently, we’re experiencing a significant delay — automation updates only appear after manually refreshing the browser, which makes daily use difficult. Here’s a short video showing the issue: 👉 https://www.loom.com/share/27388495ca0b46c6860fef3ede57cb41?sid=b0a1f293-9269-491f-b86e-0882737b6cee The Monday support team confirmed it’s likely a board-specific or complexity-related bug, but we need a practical solution — not just to wait weeks for a . 🔧 What we need your help with Analyze our current board setup and automation structure Identify potential causes for the delay Either or rebuild a simplified version of the board that eliminates the issue Advise us on best practices for CRM-style boards in Monday (structure, automations, dependencies, etc.) ✅ Requirements Proven experience with Monday.com (automations, advanced workflows, dashboards) Ability to quickly diagnose and optimize complex setups Clear communication and reliability Bonus: Experience with Make.com / Zapier 💬 Our goal We want to keep Monday as our CRM platform — but only if we can make it fast, reliable, and easy to use for our team. If you’re confident you can help us or redesign this setup efficiently, we’d love to hear from you.
+Job Type: Hourly: $12.00 - $35.00
+Experience Level: Intermediate
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: Ruby on Rails agency required (management of existing website)
+Link: https://www.upwork.com/jobs/Ruby-Rails-agency-required-management-existing-website_~021981255875302645409/?referrer_url_path=/nx/search/jobs/
+Description: Small website (below 50k users/month) looking for web agency to (i) monitor the website continuously and (ii) work on ad hoc programming projects. Ubuntu server, Nginx webserver software, Ruby on Rails programming language and web framework responsible for the application. Experience required with all technologies mentioned above. Agency with 10+ years of experience required. Fluent English required. Budget: The budget in this job post (500 USD ) is just a dummy. It would work as follows: 100 USD/month for monitoring/maintenance if the website is working. 30 USD/h for any errors or additional programming work.
+Job Type: Fixed price
+Experience Level: Expert
+Budget: Est. budget:
+$500.00
+
+---
+
+Title: Excellent Editor Needed- Must be confident with using Descript
+Link: https://www.upwork.com/jobs/Excellent-Editor-Needed-Must-confident-with-using-Descript_~021981254752909977273/?referrer_url_path=/nx/search/jobs/
+Description: A post is available for an editor who enjoys working on professional videos and wishes to find a long-term contract. The role involves editing videos for YouTube and later recording videos for an educational site. The post would suit someone who enjoys working on educational and professional videos and would love to be part of a team focused on creating highly engaging and effective professional material. The following provides a brief overview of the workflow for YouTubes only: How will videos be submitted to the editor? Videos may or may not be submitted with the majority of the extra footage removed. The editor is expected to do the following: Edit the video in Descript, Add graphics appropriately, Adjust audio levels, if necessary, Cut out rough footage and Add stock footage to enhance video engagement. When will the editor receive the videos? Normally videos are expected to be given to the editor at least 2 weeks before the date on which it is to be uploaded to YouTube. When is the editor expected to return the final draft? The editor is expected to return the final video at least 3 days before the upload date. Skills necessary for this position: Excellent English language skills, Creative thinking skills, Excellent time management, Ability to produce flawless professional videos and Ability to work with minimal supervision. Qualities needed for the post: Honesty Reliability
+Job Type: Hourly: $25.00 - $30.00
+Experience Level: Expert
+Budget: Est. time:
+More than 6 months, Less than 30 hrs/week
+
+---
+
+Title: Shopify Markets URL Issue Fix
+Link: https://www.upwork.com/jobs/Shopify-Markets-URL-Issue-span-class-highlight-Fix-span_~021981252756809287161/?referrer_url_path=/nx/search/jobs/
+Description: We are experiencing an issue with our Shopify Markets setup where prices are switching between AUD and USD. We need an expert to troubleshoot and resolve this currency switching issue to ensure prices remain consistent.
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$120.00
+
+---
+
+Title: Deep Learning Model for Parrot Recognition with Arduino Integration
+Link: https://www.upwork.com/jobs/Deep-Learning-Model-for-Parrot-Recognition-with-Arduino-span-class-highlight-Integration-span_~021981252684488959673/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking a skilled freelancer to develop a deep learning model that can identify a parrot using a webcam. The model should be capable of real-time recognition and integrate with Arduino to control a cage door, allowing only parrots to enter. The model can be pre-trained or custom-built.
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$30.00
+
+---
+
+Title: Channable and marketplaces expert
+Link: https://www.upwork.com/jobs/Channable-and-marketplaces-expert_~021981252062512537249/?referrer_url_path=/nx/search/jobs/
+Description: we are looking for someone who can setup our marketplaces based upon our channable feeds for our shop. We are looking for somoene to fix all and solve issues. Someone experienced and know what he is doing is needed. We dont have much time to do ourself We already have accounts on: - Kaufland - Amazon - C-disount
+Job Type: Hourly: $8.00 - $20.00
+Experience Level: Intermediate
+Budget: Est. time:
+Less than 1 month, 30+ hrs/week
+
+---
+
+Title: Paid Media Expert for Lead Generation
+Link: https://www.upwork.com/jobs/Paid-Media-Expert-for-Lead-Generation_~021981250728996495009/?referrer_url_path=/nx/search/jobs/
+Description: Join Pearl Lemon Group as our Paid Media Expert. You’ll architect, optimise and scale campaigns on Google Ads & Meta Ads Manager to drive high-intent B2C leads in the $5-$25 CPL range across industries like insurance, finance, legal and home services. Deliverables: · Architect and optimise paid media campaigns (Google & Meta) · Scale high-intent lead-generation campaigns across verticals · Achieve cost-per-lead efficiency of $5–$25 Scope & Requirements: We’re seeking a freelance/contract specialist with 5-10+ years’ experience in performance media buying, especially in B2C lead-gen verticals (insurance, finance, legal, home services). You must be able to show proof of past campaigns (screenshots, decks, or live walkthroughs) where you generated leads cost-effectively, and you should be comfortable discussing strategy, metrics and optimisation frameworks at a senior level. You’ll own campaign structure, budgeting, tracking (UTMs/GA4/CRM), creative testing, retargeting, and scale. Experience scaling campaigns at ~$1K-$50K/month budgets is preferred. What you’ll gain: Full autonomy: you’ll own your campaigns -to-. Work remotely with a global team at Pearl Lemon Group—across UK, India, US, Italy. Contractual role: bring your expertise, run the campaigns, show results. You’ll be working for an agency with strong credibility: founded 2016 by Deepak Shukla, registered in UK (Company No 10411490) with a ~134-person global team and 1,000+ inbound leads/month. Demonstrated culture: speed, transparency, experimentation (“launch fast, live”), and an entrepreneurial mindset.
+Job Type: Fixed price
+Experience Level: Expert
+Budget: Est. budget:
+$500.00
+
+---
+
+Title: Proficient, trustworthy AI integrators and automation specialists
+Link: https://www.upwork.com/jobs/Proficient-trustworthy-span-class-highlight-integrators-span-and-automation-specialists_~021981250427234125305/?referrer_url_path=/nx/search/jobs/
+Description: Hi, my name is Chris. I own a digital marketing business that’s now expanding into AI automation for niche industries, starting with chiropractors. We’re preparing to launch our marketing phase and are seeking a reliable AI automation expert to partner with who can install and configure our full AI Infrastructure System within a 96-hour (4-day) window per client. Our system includes at least eight core automations: No-Show & Appointment Management Patient Retention & Recall Lead Capture & Follow-Up Billing & Revenue Recovery Reputation & Review Management Staff & Workflow Optimization Personalized Patient Engagement Content Digital Marketing & Social Media Management The ideal partner will have proven experience deploying AI automations for small businesses—preferably in healthcare—and understand HIPAA compliance, patient engagement, and clinical workflows. Professionalism, responsiveness, and reliability are essential, as we plan to provide consistent ongoing work once marketing begins. Please only respond if you meet all requirements and can deliver on tight timelines. We’re looking for a long-term partnership with the right expert. Looking forward to connecting, Chris
+Job Type: Hourly
+Experience Level: Expert
+Budget: Est. time:
+More than 6 months, Not sure
+
+---
+
+Title: Financial Dashboard Builder (QuickBooks + HubSpot + AWS + Power BI or Google Data Studio)
+Link: https://www.upwork.com/jobs/Financial-Dashboard-Builder-QuickBooks-HubSpot-AWS-Power-Google-Data-Studio_~021981247216893247182/?referrer_url_path=/nx/search/jobs/
+Description: About Concierge Drop Concierge Drop is a fast-growing U.S.-based service platform that connects residents and building management to on-demand services like dry cleaning, housekeeping, and pet care. We operate across luxury residential buildings in New York City and are expanding rapidly. We’re looking for a Data & Reporting Specialist to build a centralized financial and operational dashboard that combines multiple systems into one clear view. This dashboard will give our leadership team real-time visibility into revenue, vendor performance, building profitability, and incident trends. ⸻ 💼 Project Overview We currently manage our operations through: • QuickBooks Online (financial data) • HubSpot (CRM, customers, and building relationships) • CleanCloud (orders, services, incidents) • Stripe (transactions) • AWS (our cloud infrastructure) We want to build a connected data ecosystem — a single dashboard that: • Displays all financial and operational data in one place • Allows filtering by building address, vendor, and service • Shows revenue per building and per unit (we’ll input # of units for each building) • Updates automatically via or scheduled refreshes • Is hosted on AWS and visualized through Power BI or Google Data Studio ⸻ 📈 Deliverables 1. AWS Data Warehouse Setup • Configure AWS (RDS or S3) for structured data storage • Create relational tables (buildings, vendors, orders, transactions, incidents, payouts) 2. Building Data Tracker • Create a Google Sheet or lightweight web form for: • Building Name • Address • of Units • Management Company • Assigned Vendor • Data must sync automatically to AWS (via Coupler.io, Zapier, or ) 3. Data • Connect or import data from: • QuickBooks Online • HubSpot • CleanCloud ( or CSV) • Stripe (for transactions/fees) • Join all data by building_id or address key 4. Dashboard Visualization • Build a visual dashboard (Power BI or Google Data Studio) with: • Filters for building, vendor, date range, and service type • KPIs: • Total revenue (weekly/monthly/YTD) • Gross margin % • Revenue per building and per unit • Incident rates • Vendor payouts • Refunds/credits • Month-over-month growth • Include clean, modern visuals and a Loom walkthrough of how it works. ⸻ 🧠 Technical Requirements • Experience with QuickBooks Online or data exports • Experience HubSpot and Stripe • Familiarity with CleanCloud or similar SaaS data models • AWS setup (S3, RDS, Lambda, or Glue) • Dashboard experience in Power BI or Google Data Studio • Excellent English communication and documentation skills ⸻ 💰 Budget & Timeline • project: $1,000 USD • Timeline: 2–3 weeks • Future work available for automation, KPI expansion, and app ⸻ 📋 How to Apply Please include: 1. Examples of dashboards you’ve built (especially ones using QuickBooks or AWS) 2. A short outline of your approach for connecting QuickBooks, HubSpot, and AWS 3. Confirmation you can deliver within 2–3 weeks 4. Your preferred dashboarding tool (Power BI or Google Data Studio) ⸻ Bonus if you have: • Experience working with CleanCloud • Experience building data warehouses or ETL pipelines • Understanding of financial reporting and KPI visualization ⸻ 📍 Quick Summary We want one connected, scalable dashboard where: • Each building is tracked (address + # of units) • All financial data flows from QuickBooks + Stripe • All operational data flows from HubSpot + CleanCloud • Everything is stored in AWS • Visualized beautifully in Power BI or Data Studio
+Job Type: Fixed price
+Experience Level: Expert
+Budget: Est. budget:
+$1,000.00
+
+---
+
+Title: On-Site Auditor for Field Visit in Salvador, BA
+Link: https://www.upwork.com/jobs/Site-Auditor-for-Field-Visit-Salvador_~021981241391957098190/?referrer_url_path=/nx/search/jobs/
+Description: Summary Description: We are seeking experienced auditors and financial professionals based in BRAZIL to perform short on-site audit assignments for international projects. Each assignment involves a 1-day field visit to review and verify project expenditures and supporting documentation (vouchers, invoices, payment proofs, etc.), as part of a donor-funded financial audit. Responsibilities: • Visit the project site or office for 1 day (in BRAZIL). • Review expenditure documents and verify their authenticity and completeness. • Conduct brief interviews with project staff regarding financial processes. • Take clear photos/scans of supporting documents. • Prepare a short summary report and share findings electronically. Requirements: • Background in auditing, accounting, or finance. • Prior experience with NGO, donor, or project audits is a strong advantage. • Ability to communicate in English and Portuguese. • Registered as a freelancer or working independently (no need for firm affiliation). • Must be based in Sudan and able to travel locally for 1 day. Duration: 1 day per project (potential for multiple future assignments). Compensation: per-visit rate (to be discussed based on location and experience). Start Date: Immediate. If you are interested, please share: • Your CV or profile highlighting audit experience. • Your location in Sudan (city/region). • Your availability during the coming weeks.
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$100.00
+
+---
+
+Title: Expert Shopify Developer for Custom Store
+Link: https://www.upwork.com/jobs/Expert-Shopify-Developer-for-Custom-Store_~021981240367353226937/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking an expert Shopify developer to create a fully customized Shopify store. The ideal candidate will have extensive experience in developing custom themes and integrating various functionalities to enhance the shopping experience.
+Job Type: Hourly: $15.00 - $25.00
+Experience Level: Expert
+Budget: Est. time:
+Less than 1 month, Not sure
+
+---
+
+Title: Amazon Ads Expert
+Link: https://www.upwork.com/jobs/Amazon-Ads-Expert_~021981239083277958862/?referrer_url_path=/nx/search/jobs/
+Description: We’re looking for an experienced Amazon Ads Expert to manage advertising campaigns for one brand across India and USA. Responsibilities: End-to-end Amazon advertising management Drive measurable results in sales and ROAS Provide insights, suggestions, and best practices to continually improve performance Requirements: Proven experience with Amazon Ads (India & USA markets preferred) Strong understanding of keyword strategy, bid optimization, and product targeting Compensation: $100/month () If you can take full ownership and deliver great results, we’d love to work with you. (Prior experience & knowledge required)
+Job Type: Fixed price
+Experience Level: Expert
+Budget: Est. budget:
+$100.00
+
+---
+
+Title: PDF Maker
+Link: https://www.upwork.com/jobs/PDF-Maker_~021981238304758097593/?referrer_url_path=/nx/search/jobs/
+Description: Build a native iOS app, "Doc Maker," using SwiftUI in Xcode. Users sign up/log in, input trust/will data (customer, spouse, up to 3 trustees, 3 kids), review, consent, pay $49 via Stripe, and get a PDF. Features: FAQs, contact, referral earning, document list, AI Q&A, YouTube "How It Works" video. Use Core Data/CloudKit, PDFKit/PDFco , WKWebView for video. Test on iOS 16+ simulator. Share brief, 22 images, Word template (25 docx). 2-3 week prototype. Budget $300-$500. Experienced SwiftUI devs only.
+Job Type: Fixed price
+Experience Level: Expert
+Budget: Est. budget:
+$350.00
+
+---
+
+Title: Shorts Form Content Editor (Instagram Reels / YouTube Shorts)
+Link: https://www.upwork.com/jobs/Shorts-Form-Content-Editor-Instagram-Reels-YouTube-Shorts_~021981236617063554721/?referrer_url_path=/nx/search/jobs/
+Description: Looking for a Short from editor. Content will be focused on the self improvement space mostly. We will be looking for 5 - 10 shorts/reels edits per week. At approximately 30 to 60 seconds per reel. Talking head style and attention to detail. Quantity is our number one concern, if you feel like you can create similar edits to what is provided We would love to hear what you would charge for this service (per video or per second of edit). Quote based on primary example video as we would be working based on a cost per edit (based on length of edit) Content will be highly related to the examples provided. Examples: Primary Example Edit - https://www.youtube.com/shorts/FJOl1HeergQ Secondary Example - https://www.instagram.com/p/DPyq_2TDcHO/ Third Example -
+Job Type: Hourly: $25.00 - $30.00
+Experience Level: Expert
+Budget: Est. time:
+More than 6 months, Less than 30 hrs/week
+
+---
+
+Title: Oracle Fusion Financials Functional Consultant
+Link: https://www.upwork.com/jobs/Oracle-Fusion-Financials-Functional-Consultant_~021981233148336397985/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking an experienced Oracle Fusion Financials Functional Consultant to join our IT team. The ideal candidate will be a subject matter expert in Oracle Cloud ERP, specializing in GL, AP, AR, and FA modules. Responsibilities include setup, configuration, and serving as a subject matter expert for .
+Job Type: Hourly: $20.00 - $30.00
+Experience Level: Expert
+Budget: Est. time:
+3 to 6 months, 30+ hrs/week
+
+---
+
+Title: Marketing Video for Social Media
+Link: https://www.upwork.com/jobs/Marketing-Video-for-Social-Media_~021981229706718053881/?referrer_url_path=/nx/search/jobs/
+Description: Create an animated marketing videos for social media sites such as TikTok, Instagram, and Facebook using characters from my published book series (3 books). A script will be provided. However, I welcome your creativity. The video must be appealing to both children and adults. Please advise else may be required to facilitate this job. Please submit a sample of your work. The selected individual will be paid a negotiated price. The milestones will consist of: 1. Initial video submission for Instagram, 2. Updated submission for Instagram (if required), 3. Initial video submission for TikTok, 4. Updated submission for Instagram (if required). The book illustrations and characters are copyrighted. Use is only authorized in support of this job proposal via Upwork.
+Job Type: Hourly
+Experience Level: Intermediate
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: Social Media Audit & Strategy for rent-a-manager and Leadership 3.0
+Link: https://www.upwork.com/jobs/Social-Media-Audit-Strategy-for-rent-manager-and-Leadership_~021981227698850578126/?referrer_url_path=/nx/search/jobs/
+Description: We are looking for one or two experienced Social Media Strategists to perform a professional audit and strategy review of our current brand presence across LinkedIn, Facebook, Instagram, and YouTube. This is an initial short-term project (approx. 1–2 weeks) to analyze our existing profiles and content performance, provide improvement recommendations, and propose a strategic roadmap. After the audit, we may invite one of the selected experts for a long-term collaboration. Our Brands: - rent-a-manager - B2B Interim Management & Industrial Project Execution (Germany, Europe, Asia) - Leadership 3.0 - Thought Leadership, Executive Education, Books & Transformation Concepts - Martin & Dorothea Lerchner - Founders and international leadership experts Scope of Work: 1. Review our current channels: - LinkedIn (4 accounts: Martin, Dorothea, rent-a-manager, Leadership 3.0) - Facebook (brand pages and public profiles) - Instagram (rent-a-manager, Martin, Dorothea) - YouTube (rent-a-manager channel) 2. Evaluate: - Posting frequency and consistency - Content quality, tone, and alignment with brand identity - Engagement metrics and audience insights - Visual and storytelling coherence across channels - Hashtag strategy, cross-posting methods, and timing - SEO / Google Business optimization potential 3. Deliverables: - Audit report (PDF or slide deck) with clear recommendations - Content direction plan (themes, tone, posting rhythm) - Top 3 priorities for immediate improvement Ideal Candidate: - Proven experience auditing and growing B2B or professional brands on LinkedIn and Meta platforms - Understands how to translate leadership and consulting topics into engaging content - Strategic mindset with the ability to give clear, actionable recommendations - Excellent English writing and analytical skills - Optional but helpful: familiarity with German market or audience Timeline: - Project duration: approx. 1–2 weeks - Expected output: written audit report + optional 30-minute feedback call How to Apply: Please include: 1. A short introduction of your professional background 2. Examples of previous audits or strategy reports you have delivered 3. A short note on how you would approach this audit 4. Your price for the project (or estimated hours)
+Job Type: Hourly: $3.00 - $10.00
+Experience Level: Entry Level
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: Landscape architect - rendering
+Link: https://www.upwork.com/jobs/Landscape-architect-rendering_~021981219963996159694/?referrer_url_path=/nx/search/jobs/
+Description: 204.37 x 258.33 ft 1.212 acre pervious lot ---- Power- conduits routed underground lighting - leds music - speakers Water and sewer hook up Hardscape / container park -main event area - 120x100 with fixed steel poles - divide 20x40 for future install of temporary tents -bar area movable everywhere -stage - 35 × 20 ft raised deck with optional truss backdrop -bathrooms - 20x40 feet -storage 4-5 hookups for rv or food trucks with 12x25ft pads with grease trap ---- open air pavillion - flooring - pathways to seperate the area - crushed stone pavers pathway fake grass - https://rockgardens.net/products/aqualine-permeable-pavers-12x12-cotswold-mis-12x12?gQT=1 roof - shades triangles - https://www.facebook.com/share/v/16u94TVQia/?mibextid=wwXIfr landscape and seating within ---- what type of events - Health conference / trade show Pet friendly - dog show Car show - sick magazine Wedding conference/ trade show Weddings Concerts Outdoor markets - booths
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$250.00
+
+---
+
+Title: Instagram Strategy for Beauty App Launch
+Link: https://www.upwork.com/jobs/Instagram-Strategy-for-Beauty-App-Launch_~021981215244659254969/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking a skilled social media strategist to develop an Instagram strategy aimed at boosting the visibility of our upcoming beauty app launch. The ideal candidate will have experience in creating engaging content and leveraging Instagram's features to maximize reach and engagement within the beauty industry.
+Job Type: Hourly
+Experience Level: Intermediate
+Budget: Est. time:
+1 to 3 months, Less than 30 hrs/week
+
+---
+
+Title: Operational VA with experience working for online school/program
+Link: https://www.upwork.com/jobs/Operational-with-experience-working-for-online-school-program_~021981213745359152825/?referrer_url_path=/nx/search/jobs/
+Description: Operations Assistant for Online School (Coach Certification): 35 hours/week, Monday–Friday, 9:00 AM–5:00 PM PST - SYNC ROLE, NO FLEXIBLE HOURS We’re looking for a highly organized, proactive Operations Assistant to support our growing online education company. We will only consider candidates who worked in operations/admin of online school. You’ll work closely with the COO to maintain operational excellence across student experience, team systems, and financial workflows. This role is ideal for someone who thrives on structure, precision, and continuous improvement — someone who loves turning the COO’s ideas and initiatives into clean, systems that help the company run more efficiently. Who You Are A systems thinker with advanced ClickUp (or similar project management platform) and Slack experience. Calm under pressure and able to manage multiple priorities with accuracy and strong follow-through. Tech-savvy and eager to learn new tools quickly (ActiveCampaign, Zapier, Dubsado, ThriveCart, Stripe, HelpSpace, Google Sheets). Experienced in building and new workflows based on leadership direction, improving or systems as needed. A proactive problem-solver who spots inefficiencies and offers practical solutions. Professional, warm, and empathetic in both team and student communication. Kolbe-tested candidates with strong Follow Through are preferred. What You’ll Do Student & Financial Operations Oversee the full pause, withdrawal, and cancellation process for students, ensuring accuracy and timely updates in ClickUp. Manage and respond to student tickets in HelpSpace within 48 hours, maintaining brand tone and professionalism. Handle financial and payment inquiries from the support inbox and hot lead tickets within 12-24 hours. Create and manage custom payment plans in ThriveCart, Dubsado, and Stripe. Produce weekly reports on pause/withdrawal and payment data using spreadsheets or dashboards. Operational & Team Support Translate the COO’s notes, meeting outcomes, and new ideas into actionable ClickUp tasks and workflows with clear owners, due dates, and follow-up systems. Build and new workflows or existing ones per COO direction, ensuring smooth implementation. Oversee team onboarding and offboarding, ensuring all members align with company standards and systems. Maintain confidentiality and data across all operations. Support with auditing and enforcing company-wide standard compliance Continuous Improvement Update and document SOPs as systems evolve, nothing gets lost in DMs. Identify and implement operational efficiency improvements or automations (ClickUp optimizations, reporting dashboards, etc.). Ensure all workflows and communication meet company-wide standards for quality, accuracy, and turnaround time. This role is 100% remote and reports directly to the COO. If you’re someone who loves systems, ownership, and operational excellence — while being part of a conscious, heart-centered company — we’d love to hear from you. We will only consider candidates who worked in operations/admin of online school.
+Job Type: Hourly: $12.00 - $15.00
+Experience Level: Expert
+Budget: Est. time:
+More than 6 months, 30+ hrs/week
+
+---
+
+Title: Access Developer for Production Planning System
+Link: https://www.upwork.com/jobs/Access-Developer-for-Production-Planning-System_~021981213961076401849/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking an experienced Access developer to create a production planning system that integrates with our existing CRM and sales tracking tools. The system should generate reports and produce factory work orders by machine and process, utilizing our established KPIs. Ongoing support will be required.
+Job Type: Hourly: $20.00 - $50.00
+Experience Level: Intermediate
+Budget: Est. time:
+3 to 6 months, Not sure
+
+---
+
+Title: Shopify Developer (Fixed-Term, Urgent) — Must Complete by 12PM Dublin Time Today
+Link: https://www.upwork.com/jobs/Shopify-Developer-span-class-highlight-Fixed-span-Term-Urgent-Must-Complete-12PM-Dublin-Time-Today_~021981212546036784801/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking an experienced Shopify developer to address urgent issues with our theme logic, metafields, and cart/market behavior. This is a high-priority task that requires immediate attention and expertise in Shopify development.
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$300.00
+
+---
+
+Title: Hiring Experienced Video Editors – Long-Term, Consistent Steady Work
+Link: https://www.upwork.com/jobs/Hiring-Experienced-Video-Editors-Long-Term-Consistent-Steady-Work_~021981210987584413345/?referrer_url_path=/nx/search/jobs/
+Description: I’m looking for a highly skilled, detail-oriented video editor for a long-term partnership. This isn’t a one-off gig, it’s consistent, reliable work for someone who takes pride in clean, professional editing. If you’re an editor who’s tired of low-effort clients and projects that don’t respect your craft, this is the kind of work you’ll actually enjoy. Our videos are not complicated or flashy, but they need to be done properly with patience, precision, and smooth flow. This job isn’t “hard,” but it requires care. The right editor will find it straightforward, steady, and rewarding. What You’ll Be Doing: - Edit talking-head YouTube videos with supporting stock footage and occasional captions. - Maintain natural pacing, clean cuts, and smooth transitions. - Deliver polished final videos that feel effortless and professional. - Apply light enhancements, nothing over-the-top, just clean, thoughtful editing that respects the message and tone. What I’m Looking For: - Fluent English comprehension — you should fully understand spoken English to cut naturally around sentence flow. - Mastery of Adobe Premiere Pro only and adobe creative apps. (no CapCut, DaVinci Resolve, or similar). - Strong understanding of pacing and rhythm, you know how to make an edit feel right. - Attention to detail, no dead space, no clipped words, no sloppy transitions. - No rushed or careless work, I don’t want sloppy cutting, lazy timing, or simple mistakes that should’ve been caught in review. Every edit should feel intentional and professional. - Reliable internet (you’ll be working with large, high-quality footage and stock files, often several gigabytes). - Access to licensed stock footage is not required — we’ll provide access to all necessary assets. - Bonus: Experience with other Adobe Creative Cloud apps like After Effects and Photoshop. Pay and Workflow: - This is a -rate position — paid per project, not hourly. - Most projects are 10–20 minute videos of raw footage. On average, these edits take around 3–5 hours while learning the workflow, but once you’re comfortable, they can be completed in 2–3 hours. - I assign one project at a time to ensure quality and proper revisions. Editors who deliver quality and reliability can expect a consistent workload of around two videos per week, with opportunities for performance-based pay increases over time. This isn’t a race, it’s a professional relationship built on consistency and pride in clean editing. If you’re good at what you do, I’ll make sure it’s worth your time. To Apply Please send: - Examples of your work (Drive links preferred). - A short message about your editing background and what kind of projects you enjoy. - Your internet speed test result. - Whether you currently have access to licensed stock footage platforms (Envato, Motion Array, Storyblocks). - Confirmation that you use Premiere Pro and can share the .prproj file after editing. If you’re an experienced editor who’s reliable, organized, and ready to work with a serious creator long-term, this is your opportunity to build consistent income and creative stability doing work that actually gets seen.
+Job Type: Hourly
+Experience Level: Expert
+Budget: Est. time:
+More than 6 months, Hours to be determined
+
+---
+
+Title: Client Portal for a Real Estate Buyers Agency built with Softr
+Link: https://www.upwork.com/jobs/Client-Portal-for-Real-Estate-Buyers-Agency-built-with-Softr_~021981210787499335329/?referrer_url_path=/nx/search/jobs/
+Description: Hi, could I'd like a client portal built for a real estate buyers agency. Coule you please review the attached SoW and provide a fixed fee quote. The purpose of the portal is to keep clients informed about the properties we're inspecting and assessing on their behalf. Here's a list of portal features we'll need: General property info Address with main image of the front of the property property type Bed/bath/car/other features Market appraisal Link to property on real estate portal (rea, domain etc) Links to inspection photos, videos and reports (not real estate portal photos) Purchase stage [researching, recommended, ruled out] Date inspected and by who Investor information if required Land value Land value as a % of property value Expected/actual rent - gross yield % Body corp fees Stamp duty Zoning Other expenses Link to completed investment calculator/cashflow forecast etc Link to investment report [include key performance indicators] Star rating system [5 stars] with notes for each Location School catchment Proximity to transport Flood risk Layout Liveability/rentability Condition Potential Ability for client to add comments in each section [2-way feedback] Available on desktop and app with notifications feature. I look forward to hearing from you Regards, Jason
+Job Type: Hourly
+Experience Level: Intermediate
+Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+---
+
+Title: Low Voltage Takeoff Estimator for Security Systems
+Link: https://www.upwork.com/jobs/Low-Voltage-Takeoff-Estimator-for-Security-Systems_~021981208653354974926/?referrer_url_path=/nx/search/jobs/
+Description: We’re looking for an experienced Low Voltage Takeoff Estimator to assist with reviewing project drawings, blueprints, and bid documents to produce detailed material and labor takeoffs for low voltage systems. This role will support our estimating and project management teams by providing accurate and timely takeoffs for projects involving structured cabling, CCTV, access control, intrusion, and AV systems. WRITE "BOOTS" IN YOUR COVER LETTER PROPOSAL Responsibilities: Review bid documents, drawings, and specifications to identify all low-voltage scope items. Perform detailed quantity takeoffs for cabling, devices, racks, conduit, and accessories. Create itemized material and labor breakdowns using Excel or estimating software. Interpret and mark up plans in Bluebeam (or similar software). Coordinate with project managers and sales team for clarifications and revisions. Meet deadlines for bid submissions and maintain organized project files. Requirements: Proven experience performing takeoffs for low voltage systems (security, data, access control, CCTV, etc.) Strong understanding of electrical/low voltage drawings and CSI divisions. Proficiency in Bluebeam Revu, Planswift, or equivalent takeoff software. Excellent attention to detail and ability to work independently. Good communication and organizational skills. Preferred Qualifications: Familiarity with spec-based commercial projects (government, schools, hospitals, multifamily, etc.) Experience with estimating software like Accubid, McCormick, or ConEst. Prior background working with security or structured cabling contractors.
+Job Type: Hourly: $17.00 - $39.00
+Experience Level: Intermediate
+Budget: Est. time:
+1 to 3 months, Less than 30 hrs/week
+
+---
+
+Title: JSON Fix for Amazon JSON_LISTINGS_FEED Submission
+Link: https://www.upwork.com/jobs/JSON-span-class-highlight-Fix-span-for-Amazon-JSON_LISTINGS_FEED-Submission_~021981208412804933305/?referrer_url_path=/nx/search/jobs/
+Description: We are seeking a skilled freelancer to fix a JSON file for an Amazon JSON_LISTINGS_FEED submission. We only need to fix the code as its not updating our inventory. This is for a MFN product. Please review the attached code.
+Job Type: Fixed price
+Experience Level: Intermediate
+Budget: Est. budget:
+$10.00
+
+---
+

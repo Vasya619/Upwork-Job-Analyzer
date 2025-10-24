@@ -1,0 +1,866 @@
+
+======================================================================
+MATCHED JOBS - Found 41 matches
+======================================================================
+
+MATCH #1
+----------------------------------------------------------------------
+
+📌 Title:
+   ODBC to Hubspot Data Integration Specialist
+
+🔗 Link:
+   https://www.upwork.com/jobs/ODBC-Hubspot-Data-span-class-highlight-Integration-span-Specialist_~021981674946691135696/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly: $10.00 - $40.00
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+📝 Description:
+We are seeking a skilled freelancer to establish a seamless data link between our ERP system and Hubspot. The goal is to ensure that deals are updated in both directions, maintaining data consistency and accuracy. This project requires expertise in data integration and API connections.
+
+✅ Match Reason:
+This job is a strong match as it requires data integration and API connections, which are core skills for the freelancer who specializes in integrating complex external APIs and ensuring robust data management.
+======================================================================
+
+MATCH #2
+----------------------------------------------------------------------
+
+📌 Title:
+   Instagram API Expert Needed - Auto-DM on Comment Feature Implementation (One-Time Consultation)
+
+🔗 Link:
+   https://www.upwork.com/jobs/Instagram-span-class-highlight-API-span-Expert-Needed-Auto-Comment-Feature-Implementation-One-Time-Consultation_~021981668222978853088/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Expert
+💰 Budget: Est. budget:
+$100.00
+
+📝 Description:
+We need an experienced Instagram API/automation expert for a one-time consultation to help us implement an auto-DM feature that responds to specific comments on our Instagram posts. Current Challenge: Our developer claims that Instagram's API policies prevent sending automatic DMs when users comment "link" on our posts without prior conversation. They state that Instagram requires users to initiate the conversation first before we can send DMs programmatically. We getting this error This message...
+
+✅ Match Reason:
+This job is an excellent fit as it directly requires expertise in API integration and automation, which are key skills for the freelancer, especially with their proven experience in consuming and integrating complex external APIs.
+======================================================================
+
+MATCH #3
+----------------------------------------------------------------------
+
+📌 Title:
+   P2p hire maintenance and troubleshooting
+
+🔗 Link:
+   https://www.upwork.com/jobs/P2p-hire-maintenance-and-troubleshooting_~021981662562356702578/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Intermediate
+💰 Budget: Est. budget:
+$450.00
+
+📝 Description:
+Our project was previously running smoothly — all core features were fully functional, including: Peer-to-peer rental marketplace (vehicle listings, bookings, host/customer portals) Vehicle HPI checks and valuation APIs (data fetched and displayed correctly) Admin panel for site-wide overview and management User and host sign-in system Since October 10, the entire site functionality has broken down. None of the -driven features (HPI checks, valuations, or booking confirmations) are returning dat...
+
+✅ Match Reason:
+This job aligns perfectly with the freelancer's backend development and API integration skills, as it involves troubleshooting and restoring data-driven features, API calls, and authentication for a web application.
+======================================================================
+
+MATCH #4
+----------------------------------------------------------------------
+
+📌 Title:
+   AI Voice Agent Developer (Greek) — Multi-Barbershop Booking Platform
+
+🔗 Link:
+   https://www.upwork.com/jobs/Voice-Agent-Developer-Greek-Multi-Barbershop-Booking-Platform_~021981653018674366826/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+📝 Description:
+Summary (read first): I need a developer to build from scratch a production-ready AI phone agent for multiple barbershops in Greece. The agent must answer instantly (no perceptible delay), never transfer to a human, speak natural, concise Greek (never corny), and book only 30-minute appointments, including bookings up to 30 minutes before a slot if available. Each shop uses its own Google Calendar. The agent sends SMS confirmations/reminders and remembers client names. We also need a simple Admi...
+
+✅ Match Reason:
+This job is a strong match for the freelancer's backend development and API integration skills, particularly for building a multi-tenant booking platform with Google Calendar and SMS integrations, and an admin console using Node.js.
+======================================================================
+
+MATCH #5
+----------------------------------------------------------------------
+
+📌 Title:
+   HTML Invoice Template Development for DocRaptor Integration
+
+🔗 Link:
+   https://www.upwork.com/jobs/HTML-Invoice-Template-Development-for-DocRaptor-span-class-highlight-Integration-span_~021981633497950161120/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly: $15.00 - $65.00
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+📝 Description:
+We are seeking a skilled developer to create a dynamic HTML invoice template that integrates seamlessly with DocRaptor. The template should be compatible with a provided PDF and allow for the addition of more fields as needed.
+
+✅ Match Reason:
+The freelancer has HTML knowledge and strong API integration skills, which are directly applicable to developing an HTML template and integrating it with DocRaptor for dynamic document generation.
+======================================================================
+
+MATCH #6
+----------------------------------------------------------------------
+
+📌 Title:
+   AI Agent Development for Property Listing Search
+
+🔗 Link:
+   https://www.upwork.com/jobs/Agent-Development-for-Property-Listing-Search_~021981627632551262416/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Intermediate
+💰 Budget: Est. budget:
+$50.00
+
+📝 Description:
+We are seeking a skilled developer to create an AI agent that can scrape property listings from our internal website and other property portals. The agent should be able to filter listings based on specific property criteria and return relevant results in a user friendly and readable format for property purchase decision making.
+
+✅ Match Reason:
+This job aligns well with the freelancer's backend development, automation, and data-driven website skills, as it involves scraping, filtering, and presenting data from various sources.
+======================================================================
+
+MATCH #7
+----------------------------------------------------------------------
+
+📌 Title:
+   SAAS App MVP Development
+
+🔗 Link:
+   https://www.upwork.com/jobs/SAAS-App-MVP-Development_~021981623717013289168/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Intermediate
+💰 Budget: Est. budget:
+$150.00
+
+📝 Description:
+We are seeking a skilled developer to create a simple SAAS MVP. I have used a 'no code' AI tool to develop a rough draft of the app to test the results and see if it is worth investing into. I am happy with the results I have been able to generate but I have little coding experience, the app is fairly clunky and doesn't always work as expected. I am looking for somebody to develop the app (in browser version is fine for now) to a level that I can deploy it publicly and test the waters to see how...
+
+✅ Match Reason:
+This job is a strong match for the freelancer's Node.js backend development skills, involving data parsing, JSON processing, implementing application logic, and potential API integration with services like OpenAI.
+======================================================================
+
+MATCH #8
+----------------------------------------------------------------------
+
+📌 Title:
+   Experienced Developer Needed for Centralized Crypto Exchange
+
+🔗 Link:
+   https://www.upwork.com/jobs/Experienced-Developer-Needed-for-Centralized-Crypto-Exchange_~021981618496055160178/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly: $25.00 - $47.00
+⭐ Experience Level: Expert
+💰 Budget: Est. time:
+1 to 3 months, 30+ hrs/week
+
+📝 Description:
+We are seeking an experienced developer or team to build a secure, fast, and scalable Centralized Crypto Exchange (CEX). The platform should support multi-currency deposits/withdrawals, real-time price charts, and integrate APIs for liquidity and payments. Strong experience in blockchain and exchange architecture is required.
+
+✅ Match Reason:
+This job requires building a secure, scalable backend with real-time data and API integrations, which perfectly aligns with the freelancer's Node.js, Express.js, PostgreSQL, and API integration expertise for robust server-side solutions.
+======================================================================
+
+MATCH #9
+----------------------------------------------------------------------
+
+📌 Title:
+   Supabase and Retool Integration Specialist
+
+🔗 Link:
+   https://www.upwork.com/jobs/Supabase-and-Retool-span-class-highlight-Integration-span-Specialist_~021981614091219826896/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly: $20.00 - $50.00
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+Less than 1 month, 30+ hrs/week
+
+📝 Description:
+We are seeking a skilled freelancer to set up a new database in Supabase and integrate it with three internal portals using Retool. The project involves creating and linking tables, setting up calculated columns, and ensuring secure integration with automation workflows.
+
+✅ Match Reason:
+The freelancer's strong PostgreSQL and backend development skills are ideal for setting up a Supabase database, creating tables, and ensuring secure integration with automation workflows, leveraging their API integration experience.
+======================================================================
+
+MATCH #10
+----------------------------------------------------------------------
+
+📌 Title:
+   TG Bot Developer
+
+🔗 Link:
+   https://www.upwork.com/jobs/Bot-Developer_~021981609278984039794/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly
+⭐ Experience Level: Expert
+💰 Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+📝 Description:
+I have a bot created that allows me to input a wallet address, and then when I call the wallet stats, it is pulled and displayed in the tg chat. I want to the function so the bot auto posts the ca of any coin that wallet buys for the first time only.
+
+✅ Match Reason:
+This job is a strong match as it requires backend development for a bot, involving API integration to pull wallet stats and automate posts, which directly uses the freelancer's Node.js, backend, and API integration skills.
+======================================================================
+
+MATCH #11
+----------------------------------------------------------------------
+
+📌 Title:
+   Meta Conversion API (CAPI) Tracking Specialist for High-Ticket VSL Funnel
+
+🔗 Link:
+   https://www.upwork.com/jobs/Meta-Conversion-span-class-highlight-API-span-CAPI-Tracking-Specialist-for-High-Ticket-VSL-Funnel_~021981606177459046762/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Expert
+💰 Budget: Est. budget:
+$600.00
+
+📝 Description:
+About Us We’re a performance marketing agency running high-volume Facebook ads that drive traffic to a VSL-to-booked-call funnel. We generate hundreds of leads monthly and rely heavily on data accuracy to optimize campaigns, improve lead quality, and scale efficiently. We’re looking for a Meta Conversion (CAPI) & Tracking Specialist who can help us properly CAPI with Hyros, GoHighLevel, and Zapier, ensuring 100% accurate event tracking and deduplication between browser and server events. Your Mi...
+
+✅ Match Reason:
+This role requires setting up server-side API tracking and ensuring data deduplication, which directly leverages the freelancer's strong API integration, backend development, and automation skills for robust data management.
+======================================================================
+
+MATCH #12
+----------------------------------------------------------------------
+
+📌 Title:
+   Resident Payment Portal (Stripe + Compass)
+
+🔗 Link:
+   https://www.upwork.com/jobs/Resident-Payment-Portal-Stripe-Compass_~021981560740849027434/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+1 to 3 months, Not sure
+
+📝 Description:
+Opportunity: o Build a custom-branded portal that mirrors Aline Payments functionality but uses Stripe as the payment rail. o Faster clearing (2–3 days for ACH, instant for cards). o No idle reserve requirements. o Create an extensible platform that can expand beyond payments (announcements, care docs, activity calendars). o Potential to white-label as an alternative to Jack Henry across the industry. · Reference docs (Aline specs): o Aline Payments Confluence Wiki (Express Pay & BOM) (https://a...
+
+✅ Match Reason:
+Building a custom payment portal with Stripe integration is a perfect fit for the freelancer's Node.js, Express.js, PostgreSQL, and API integration skills, focusing on robust backend services and data management.
+======================================================================
+
+MATCH #13
+----------------------------------------------------------------------
+
+📌 Title:
+   Nostr Server Development with Bitcoin Node Integration
+
+🔗 Link:
+   https://www.upwork.com/jobs/Nostr-Server-Development-with-Bitcoin-span-class-highlight-Node-span-span-class-highlight-Integration-span_~021981605680629479632/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Intermediate
+💰 Budget: Est. budget:
+$2,000.00
+
+📝 Description:
+We’re seeking for development of a lightweight backend service that connects directly to a Bitcoin Core node, fetches blockchain/mempool data, and publishes relevant information through the Nostr protocol as standardized events. The goal is to create a reliable bridge between on-chain Bitcoin data and real-time Nostr feeds.
+
+✅ Match Reason:
+This job requires developing a backend service for data fetching and publishing, including integration with a Bitcoin node, which aligns well with the freelancer's Node.js, backend development, and API integration expertise.
+======================================================================
+
+MATCH #14
+----------------------------------------------------------------------
+
+📌 Title:
+   AI Interview Voice Agent
+
+🔗 Link:
+   https://www.upwork.com/jobs/Interview-Voice-Agent_~021981595001193298128/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+Less than 1 month, Not sure
+
+📝 Description:
+We are building out an interview voice agent. The agent will guide users through a semi-structured 4-5 minute interview to build out their profile and preferences.
+
+✅ Match Reason:
+Developing an AI voice agent involves significant backend logic, API integration (for AI services), and data management for user profiles, all of which are core strengths of the freelancer's Node.js and PostgreSQL stack.
+======================================================================
+
+MATCH #15
+----------------------------------------------------------------------
+
+📌 Title:
+   AI Receptionist MVP Development swedish
+
+🔗 Link:
+   https://www.upwork.com/jobs/Receptionist-MVP-Development-swedish_~021981590837522738546/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly: $15.00 - $35.00
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+Less than 1 month, 30+ hrs/week
+
+📝 Description:
+Develop a production-grade AI receptionist by Nov 2 Ensure zero crashes, 100% call recording, and smooth Swedish telephony integration. Key features include a phone system, real-time task workflow, call log/search/playback, GDPR-compliant backend, and deployment on robust infrastructure. The project requires a clear scope and plan to guarantee reliability, timely delivery, and mitigation of booking/ delays. Daily communication is essential. Selection based on best scoping, test strategy, and mai...
+
+✅ Match Reason:
+This project is an excellent fit, requiring robust backend development for an AI receptionist, including real-time workflows, call logging (PostgreSQL), API integrations (telephony, AI), and deployment, all within the freelancer's core expertise.
+======================================================================
+
+MATCH #16
+----------------------------------------------------------------------
+
+📌 Title:
+   Google Sheets Automation Developer: Integrations with Airtable, OptiCutter, and Odoo
+
+🔗 Link:
+   https://www.upwork.com/jobs/Google-Sheets-Automation-Developer-span-class-highlight-Integrations-span-with-Airtable-OptiCutter-and-Odoo_~021981570191520233680/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Intermediate
+💰 Budget: Est. budget:
+$600.00
+
+📝 Description:
+We’re looking for an experienced Google Apps Script developer (or advanced Google Sheets automation specialist) to extend our existing quoting spreadsheet with a set of powerful automations. Our company manufactures custom plastic and signage products, and this spreadsheet is our primary quoting and job creation tool. We’d like to enable the following features directly inside Sheets: 1. Save and load quotes to Airtable 2. Send cutting data to the OptiCutter and import its results 3. Generate a s...
+
+✅ Match Reason:
+This job is a strong match due to its focus on API integration (REST APIs, JSON transformations) and automation across multiple platforms, directly aligning with the freelancer's proven experience in API integration and automation, even if the primary tool is Google Apps Script rather than Node.js.
+======================================================================
+
+MATCH #17
+----------------------------------------------------------------------
+
+📌 Title:
+   Instagram Followers Data Extraction
+
+🔗 Link:
+   https://www.upwork.com/jobs/Instagram-Followers-Data-Extraction_~021981557107825113296/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Intermediate
+💰 Budget: Est. budget:
+$7.00
+
+📝 Description:
+We are seeking a skilled freelancer to extract followers from two public Instagram accounts and compile them into a CSV file. This task requires attention to detail and experience with social media data extraction. Approx 6000 followers in total
+
+✅ Match Reason:
+This job aligns with the freelancer's 'Automation' and 'API Integration' skills, as they can use Node.js to script data extraction from social media, similar to how they handle data for their personal projects.
+======================================================================
+
+MATCH #18
+----------------------------------------------------------------------
+
+📌 Title:
+   Workflow Automation Specialist (Make.com) Needed
+
+🔗 Link:
+   https://www.upwork.com/jobs/Workflow-Automation-Specialist-Make-com-Needed_~021981530331195738336/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly: $15.00 - $20.00
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+3 to 6 months, Less than 30 hrs/week
+
+📝 Description:
+We are seeking an experienced workflow automation contractor proficient in Make.com to streamline our business processes. The ideal candidate will have a proven track record of implementing automation solutions that enhance efficiency and reduce manual tasks. You will work closely with our team to use Make to automate workflows and increase efficiency for internal processes. If you have a strong understanding of Make.com and a passion for optimizing workflows, we want to hear from you!
+
+✅ Match Reason:
+The freelancer's 'Automation' and 'API Integration' skills are highly relevant for building workflows, even if Make.com is a specific platform, as the core logic and integration principles are familiar.
+======================================================================
+
+MATCH #19
+----------------------------------------------------------------------
+
+📌 Title:
+   Integrate AI into Google Sheets
+
+🔗 Link:
+   https://www.upwork.com/jobs/span-class-highlight-Integrate-span-into-Google-Sheets_~021981529623456970960/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Expert
+💰 Budget: Est. budget:
+$100.00
+
+📝 Description:
+I need to provide commands and feedback as if it's a chatbot, within a Google Sheet. Not just a single standardized fixed command.
+
+✅ Match Reason:
+This job is a strong match for the freelancer's 'API Integration' and 'Automation' skills, especially given their proven experience integrating complex APIs like Gemini, which could be used to power AI interactions within Google Sheets.
+======================================================================
+
+MATCH #20
+----------------------------------------------------------------------
+
+📌 Title:
+   Connect Asana and WhatsApp with Albato.com
+
+🔗 Link:
+   https://www.upwork.com/jobs/Con  nect-Asana-and-WhatsApp-with-Albato-com_~021981505867762469088/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Intermediate
+💰 Budget: Est. budget:
+$75.00
+
+📝 Description:
+We’re looking for a freelancer experienced with Albato.com to set up and connect Asana and WhatsApp for automated task and message integration. The goal is to streamline communication and task management by syncing updates and notifications between the two platforms. Experience with Albato or similar automation tools (Zapier, Make, etc.) is preferred. Quick turnaround appreciated.
+
+✅ Match Reason:
+The freelancer's 'Automation' and 'API Integration' expertise makes them well-suited for this role, as they can apply their understanding of logical connections to integrate services using platforms like Albato.com.
+======================================================================
+
+MATCH #21
+----------------------------------------------------------------------
+
+📌 Title:
+   Make.com Automation Blueprint Builder (No API Access Required)
+
+🔗 Link:
+   https://www.upwork.com/jobs/Make-com-Automation-Blueprint-Builder-span-class-highlight-API-span-Access-Required_~021981506566527266162/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+1 to 3 months, 30+ hrs/week
+
+📝 Description:
+Make.com Automation Blueprint Builder (No API Access Required) Project Overview I’m looking for an experienced Make.com (Integromat) automation specialist to build reusable blueprints (.json exports) that integrate tools like Apify, OpenAI, Gmail, and Google Sheets — using dummy data and placeholder credentials only. The goal is to receive finished Make scenarios that I can plug into my account, connect my own keys, and run immediately. --- Deliverables ✅ Fully functional Make.com blueprint (.js...
+
+✅ Match Reason:
+This job is an excellent match, directly leveraging the freelancer's 'Automation' and 'API Integration' skills, including experience with AI APIs (like Gemini), to build logical workflows and integrations within a platform like Make.com.
+======================================================================
+
+MATCH #22
+----------------------------------------------------------------------
+
+📌 Title:
+   API/Webhook Integration Specialist for Wave Accounting
+
+🔗 Link:
+   https://www.upwork.com/jobs/span-class-highlight-API-span-Webhook-span-class-highlight-Integration-span-Specialist-for-Wave-Accounting_~021981495197922855136/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly: $15.00 - $25.00
+⭐ Experience Level: Expert
+💰 Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+📝 Description:
+We are seeking an experienced professional to connect our web platform to Wave Accounting using API or webhook through Make.com. The ideal candidate will have a strong background in API development and integration, particularly with Wave Accounting and Make.com. The integration involves handling sensitive client information and financial data, so expertise in data security is essential. Specific certifications are required to ensure the highest level of security and data . The project needs to b...
+
+✅ Match Reason:
+The freelancer specializes in API integration and backend development with Node.js, making them well-suited to connect web platforms via API or webhooks, which is the core requirement of this job.
+======================================================================
+
+MATCH #23
+----------------------------------------------------------------------
+
+📌 Title:
+   Integrate Lovable Store with Shopify via API
+
+🔗 Link:
+   https://www.upwork.com/jobs/span-class-highlight-Integrate-span-Lovable-Store-with-Shopify-via-span-class-highlight-API-span_~021981489768402660722/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly: $12.00 - $27.00
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+📝 Description:
+We are seeking a skilled freelancer to integrate our Lovable Store with Shopify using API. The ideal candidate will have experience in API development and a strong understanding of both platforms to ensure seamless integration.
+
+✅ Match Reason:
+The freelancer has proven experience in API integration and backend development with Node.js, which directly aligns with the task of integrating two platforms via API.
+======================================================================
+
+MATCH #24
+----------------------------------------------------------------------
+
+📌 Title:
+   Build Predictive Real Estate Heatmap & Lot-Level AVM vs Sale Spread Analysis (PostgreSQL + Tableau)
+
+🔗 Link:
+   https://www.upwork.com/jobs/Build-Predictive-Real-Estate-Heatmap-amp-Lot-Level-AVM-Sale-Spread-Analysis-span-class-highlight-PostgreSQL-span-Tableau_~021981482887925528784/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly: $70.00 - $150.00
+⭐ Experience Level: Expert
+💰 Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+📝 Description:
+We’re building a high-resolution real estate analytics dashboard focused on identifying property-level profit spreads and optimal build locations based on public and proprietary data. Our company, Aro Homes, is a tech-driven infill homebuilder operating in the San Francisco Bay Area and Los Angeles. We need help completing and optimizing three core spatial analytics tasks using and Tableau
+
+✅ Match Reason:
+The freelancer has strong PostgreSQL skills and experience building data-driven applications, which aligns well with the data collection, analysis, and management required for this real estate analytics project.
+======================================================================
+
+MATCH #25
+----------------------------------------------------------------------
+
+📌 Title:
+   API Developer – Go High Level & Medical EHR Integration (HIPAA-Compliant | Full-Time Potential)
+
+🔗 Link:
+   https://www.upwork.com/jobs/span-class-highlight-API-span-Developer-High-Level-amp-Medical-EHR-span-class-highlight-Integration-span-HIPAA-Compliant-Full-Time-Potential_~021981481829524712818/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly
+⭐ Experience Level: Expert
+💰 Budget: Est. time:
+1 to 3 months, 30+ hrs/week
+
+📝 Description:
+Seeking an experienced API developer/small team to integrate Go High Level with medical EHR/EMR systems such as eClinicalWorks and Athenahealth. The goal is a secure, bidirectional sync between GHL and EHR calendars. To begin as a contract project with potential to transition into a full-time role. Scope: Build two-way appointment sync starting with GHL ↔ eClinicalWorks. Ensure HIPAA compliance: secure PHI handling, audit logging, encryption. Use tools like Keragon or Zenphi for low/no-code auto...
+
+✅ Match Reason:
+This job is a direct match for the freelancer's core expertise in API development and integration, requiring robust backend solutions and data handling, which aligns with their Node.js and API integration skills.
+======================================================================
+
+MATCH #26
+----------------------------------------------------------------------
+
+📌 Title:
+   Build CRM Connection for Vapi/Make workflow
+
+🔗 Link:
+   https://www.upwork.com/jobs/Build-CRM-Connection-for-Vapi-Make-workflow_~021981478468133226858/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Entry Level
+💰 Budget: Est. budget:
+$200.00
+
+📝 Description:
+Looking for an AI developer to integrate an existing make.com workflow into various CRM's such as Jobber and Service Titan, depending on the job. The workflow will allow clients to call a business via Vapi, which is connected to Make, and will allow clients to book appointments, after which the detailed info will be input into the CRM. Would be looking for someone to complete this task in less than 2 days, as the majority of the workflow is already created. Videos explaining your methods are enc...
+
+✅ Match Reason:
+The freelancer excels in API integration and automation, which is directly applicable to connecting Vapi/Make workflows with CRMs like Jobber and Service Titan.
+======================================================================
+
+MATCH #27
+----------------------------------------------------------------------
+
+📌 Title:
+   Shopify Automation Expert for ShipStation Integration
+
+🔗 Link:
+   https://www.upwork.com/jobs/Shopify-Automation-Expert-for-ShipStation-span-class-highlight-Integration-span_~021981473386894077298/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Expert
+💰 Budget: Est. budget:
+$500.00
+
+📝 Description:
+We are seeking an experienced Shopify developer and automation specialist to streamline our fulfillment and inventory workflow between Shopify and ShipStation. The role also involves building a custom private app to automate our backend billing and reporting system.
+
+✅ Match Reason:
+The freelancer's expertise in Node.js, Express.js, PostgreSQL, and automation makes them suitable for developing a custom backend application for billing and reporting, which is a key part of this project.
+======================================================================
+
+MATCH #28
+----------------------------------------------------------------------
+
+📌 Title:
+   Outreach Solutions Integration
+
+🔗 Link:
+   https://www.upwork.com/jobs/Outreach-Solutions-span-class-highlight-Integration-span_~021981470582963341674/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Expert
+💰 Budget: Est. budget:
+$150.00
+
+📝 Description:
+I need someone to integrate my new outreach solutions including Instantly.AI, Pipedrive, Apollo.io, Cal.com, RepliQ for “personalized video”, Loom, Ringless Voicemail Drop, Expandi, Zapier automations, Phantombuster initial set-up, test and launch. I would like someone who speaks fluent English to walk me through setting up all these and complete within 1-2 hours. I will pay a price of $150 price if you can help me today (Current Time- 10-23-25 @ 5:00PM EST - Available until 8:00PM EST) or we ca...
+
+✅ Match Reason:
+The freelancer has strong API integration and automation skills, making them well-suited to connect and set up various outreach solutions and Zapier automations as required by this project.
+======================================================================
+
+MATCH #29
+----------------------------------------------------------------------
+
+📌 Title:
+   Api examples
+
+🔗 Link:
+   https://www.upwork.com/jobs/span-class-highlight-Api-span-examples_~021981470399566022880/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+📝 Description:
+Develop some Postman examples for us to use for some specific tasks
+
+✅ Match Reason:
+As an API integration specialist, the freelancer is highly capable of developing Postman examples for specific API tasks, demonstrating their understanding of API functionality.
+======================================================================
+
+MATCH #30
+----------------------------------------------------------------------
+
+📌 Title:
+   API Developer for REST and GraphQL Integration
+
+🔗 Link:
+   https://www.upwork.com/jobs/span-class-highlight-API-span-Developer-for-REST-and-GraphQL-span-class-highlight-Integration-span_~021981424795780595406/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly: $18.00 - $35.00
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+1 to 3 months, Less than 30 hrs/week
+
+📝 Description:
+We are seeking an experienced API developer to work on integrating REST and GraphQL APIs into our existing systems. The ideal candidate will have a strong understanding of API architecture and experience with both REST and GraphQL technologies.
+
+✅ Match Reason:
+This job is a perfect match for the freelancer's core skills in API development and integration, particularly with REST APIs, which is a key part of their backend expertise with Node.js and Express.js.
+======================================================================
+
+MATCH #31
+----------------------------------------------------------------------
+
+📌 Title:
+   Integration Specialist for HighLevel, Kajabi, and ActiveCampaign
+
+🔗 Link:
+   https://www.upwork.com/jobs/span-class-highlight-Integration-span-Specialist-for-HighLevel-Kajabi-and-ActiveCampaign_~021981469822932809936/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly: $20.00 - $50.00
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+📝 Description:
+We are seeking an experienced integration specialist to connect HighLevel with Kajabi and ActiveCampaign. The goal is to automate processes such as granting course access and starting trial sequences. Additionally, we need an automation setup to cancel subscriptions in HighLevel when a trial is cancelled in Kajabi.
+
+✅ Match Reason:
+The freelancer's expertise in API integration and automation makes them highly suitable for connecting HighLevel, Kajabi, and ActiveCampaign to automate various processes and workflows.
+======================================================================
+
+MATCH #32
+----------------------------------------------------------------------
+
+📌 Title:
+   Twillio web app build - ai real estate photo enhancement
+
+🔗 Link:
+   https://www.upwork.com/jobs/Twillio-web-app-build-real-estate-photo-enhancement_~021981464228318775520/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+📝 Description:
+Hello- We would like to schedule a discovery call to see if you can help us budget for our project. Combining ai photo enhancement for 55+ year old real estate agents. The solutions that exist are very modern and most realtors are not tech savvy. We would like a full build with a team for website, crm and sms . Trying to make complicated apps to stupid simple. Text photos, select enhancement combinations, receive watermark enhanced images, approve or retry, approve = verify payment / make accoun...
+
+✅ Match Reason:
+The freelancer's full-stack Node.js development skills, including backend and API integration, are well-suited for building a web application that combines Twilio for SMS and integrates AI photo enhancement services.
+======================================================================
+
+MATCH #33
+----------------------------------------------------------------------
+
+📌 Title:
+   Full Stack Developer for App Development
+
+🔗 Link:
+   https://www.upwork.com/jobs/Full-Stack-Developer-for-App-Development_~021981461851431864544/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Intermediate
+💰 Budget: Est. budget:
+$50.00
+
+📝 Description:
+We are seeking an experienced full stack developer to join our agency for immediate work on an app development project. The ideal candidate should have expertise in both frontend and backend technologies, as well as experience with integrations and AI tools. The Fixed Price is only a placeholder, I'm open to discuss the price (or hourly rate) once I provide the details for this first project.
+
+✅ Match Reason:
+This is a direct match for a full-stack developer with strong backend (Node.js, Express.js, PostgreSQL) and API integration skills, with the mention of AI tools aligning with the freelancer's Gemini API experience.
+======================================================================
+
+MATCH #34
+----------------------------------------------------------------------
+
+📌 Title:
+   AI Engineer / Full-Stack Developer
+
+🔗 Link:
+   https://www.upwork.com/jobs/Engineer-Full-Stack-Developer_~021981460853552416992/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Intermediate
+💰 Budget: Est. budget:
+$3,500.00
+
+📝 Description:
+We’re building SwitchPilot, an ambitious project to create the first AI assistant that acts in the real world — not just talks. The goal: an AI that can handle real administrative and life tasks for users, such as: -Updating addresses after moving, -Canceling subscriptions or appointments, -Managing utilities or government forms, -Paying bills or sending confirmation emails, -And keeping a secure record of what it has done. This isn’t another chatbot or “smart calendar.” It’s an AI Life Autopilo...
+
+✅ Match Reason:
+This job aligns well with the freelancer's full-stack capabilities, strong backend development, and proven experience integrating complex APIs to solve server-side problems, especially for an AI assistant performing real-world actions.
+======================================================================
+
+MATCH #35
+----------------------------------------------------------------------
+
+📌 Title:
+   AI Ad Sdk
+
+🔗 Link:
+   https://www.upwork.com/jobs/Sdk_~021981451176949156064/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Expert
+💰 Budget: Est. budget:
+$3,000.00
+
+📝 Description:
+Competitors: koah.ai • nex.ad • imprezia.ai Need to build is a drop-in SDK that helps integrates links and banners into chat answers Drop our sdk to your chat or Q&A app, and it automatically detects high-intent queries, then injects inline sponsored answers or context-aware banner cards without breaking UX or model output.
+
+✅ Match Reason:
+This is an excellent fit for the freelancer's expertise in building scalable backend services and integrating complex APIs, with Node.js being suitable for SDK development and the AI aspect aligning with their Gemini API experience.
+======================================================================
+
+MATCH #36
+----------------------------------------------------------------------
+
+📌 Title:
+   Web Scraping and Google Sheets Automation
+
+🔗 Link:
+   https://www.upwork.com/jobs/Web-Scraping-and-Google-Sheets-Automation_~021981446858243475818/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly: $8.00 - $25.00
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+📝 Description:
+Give me a fixed price & ETA to complete the job. (no reoccurring charges) I will delete any proposal that does not have a Fixed price & ETA We are seeking a skilled freelancer to scrape data from two specified websites and set up a trigger in Google Sheets to automate the scraping process. The ideal candidate will have experience in web scraping and Google Sheets automation. Sites https://www.columbusdata.net/cdswebtool/login/login.aspx https://secure.cstorepro.com/EmagineNETCOSM/login/login.asp...
+
+✅ Match Reason:
+This job is a strong match for the freelancer's 'Automation' skill and their project experience in collecting and analyzing data, which likely involves web scraping and can be effectively implemented with Node.js and Google Sheets API integration.
+======================================================================
+
+MATCH #37
+----------------------------------------------------------------------
+
+📌 Title:
+   SCEP Server Development with REST API Integration
+
+🔗 Link:
+   https://www.upwork.com/jobs/SCEP-Server-Development-with-REST-span-class-highlight-API-span-span-class-highlight-Integration-span_~021981441950809651408/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly
+⭐ Experience Level: Expert
+💰 Budget: Est. time:
+Less than 1 month, Not sure
+
+📝 Description:
+We are seeking a skilled developer to build a SCEP Server that integrates with our existing REST API. The goal is to support SCEP clients effectively. The project involves either adding the API to an existing interface or building a new one.
+
+✅ Match Reason:
+This job is a direct match for the freelancer's core expertise in backend development, building scalable services, and robust REST API integration using Node.js and Express.js.
+======================================================================
+
+MATCH #38
+----------------------------------------------------------------------
+
+📌 Title:
+   Tiktok Shop & Shopify Product Syncing Specialist
+
+🔗 Link:
+   https://www.upwork.com/jobs/Tiktok-Shop-Shopify-Product-Syncing-Specialist_~021981440534650718570/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly: $3.00 - $6.00
+⭐ Experience Level: Expert
+💰 Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+📝 Description:
+We are looking for an experienced TikTok Shop and Shopify integration expert to seamlessly sync our product catalog, fix any syncing or listing errors, and ensure all product data—including titles, images, prices, and inventory—are accurately updated across both platforms. The ideal candidate should be skilled in resolving TikTok Shop approval or compliance issues, optimizing listings for better visibility and conversions, and maintaining smooth, error-free synchronization between Shopify and Ti...
+
+✅ Match Reason:
+This job requires complex API integration and automation for product syncing between e-commerce platforms, which aligns perfectly with the freelancer's backend development, API integration, and automation skills using Node.js.
+======================================================================
+
+MATCH #39
+----------------------------------------------------------------------
+
+📌 Title:
+   Data Scientist / CRM Data Engineer for Email Intelligence
+
+🔗 Link:
+   https://www.upwork.com/jobs/Data-Scientist-CRM-Data-Engineer-for-Email-Intelligence_~021981439865617287530/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Intermediate
+💰 Budget: Est. budget:
+$250.00
+
+📝 Description:
+We’re looking for a data scientist or data engineer with experience in email data mining and CRM integration to analyze, structure, and categorize 4–5 years of archived email data (PST format). The project’s goal is to transform unstructured communication data into a structured, insight-driven dataset that can be imported into our CRM for reactivation of old business opportunities. Project Scope: - Ingest multiple PST files (Outlook archives) containing 4–5 years of business correspondence. - De...
+
+✅ Match Reason:
+This job aligns with the freelancer's data-driven backend development, PostgreSQL expertise, and API integration skills for CRM, as they have experience building systems that collect and analyze data.
+======================================================================
+
+MATCH #40
+----------------------------------------------------------------------
+
+📌 Title:
+   Untitled job post
+
+🔗 Link:
+   https://www.upwork.com/jobs/Untitled-job-post_~021981438122834406770/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Fixed price
+⭐ Experience Level: Intermediate
+💰 Budget: Est. budget:
+$100.00
+
+📝 Description:
+I need a customer service-bot that connects a messaging platform with an ecommerce store. The bot should use simple menu options (not AI/NLP) to answer very common questions and pull order info. Scope: Set up the business messaging API. Build a main menu flow with buttons: Track My Order Shipping & Delivery Returns & Refunds Ingredients & Allergens Other Question → Speak to a Person with the ecommerce store so customers can look up orders by order number or email+postcode. Add escalation rules: ...
+
+✅ Match Reason:
+This is an excellent match for the freelancer's API integration and automation skills, as they can build a custom Node.js backend to connect messaging platforms with e-commerce APIs for bot functionality.
+======================================================================
+
+MATCH #41
+----------------------------------------------------------------------
+
+📌 Title:
+   Email Management Specialist for Go High Level
+
+🔗 Link:
+   https://www.upwork.com/jobs/Email-Management-Specialist-for-High-Level_~021981427873044971214/?referrer_url_path=/nx/search/jobs/
+
+💼 Job Type: Hourly: $12.00 - $50.00
+⭐ Experience Level: Intermediate
+💰 Budget: Est. time:
+Less than 1 month, Less than 30 hrs/week
+
+📝 Description:
+We are looking for an experienced email management specialist to resolve ongoing email deliverability and operational issues within the GoHighLevel (GHL) platform. The ideal candidate will have: -Extensive experience with email infrastructure setup, including SPF, DKIM, DMARC, and branded sending domains - Proven track record of configuring email systems within GoHighLevel, ensuring high deliverability rates, strong understanding of inbox placement, email warming strategies, and spam mitigation....
+
+✅ Match Reason:
+This job involves technical backend configuration and API integration for email deliverability (SPF, DKIM, DMARC, SMTPs like Mailgun/SendGrid/Postmark), which aligns with the freelancer's backend and API integration skills, despite the GHL platform context.
+======================================================================
+
