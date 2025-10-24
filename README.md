@@ -535,32 +535,9 @@ Upwork-Auto-Jobs-Applier-using-AI/
     └── utils.py                # Scraping and file utilities
 ```
 
-## Performance & Costs
-
-### Time Estimates
-
-| Pages | Jobs | Batches | Scraping | Classification | Cover Letters | Total |
-|-------|------|---------|----------|----------------|---------------|-------|
-| 2 | 100 | 2 | 2 min | 1 min | 2 min | ~5 min |
-| 5 | 250 | 5 | 4 min | 2 min | 5 min | ~15 min |
-| 8 | 400 | 4 | 6 min | 3 min | 10 min | ~25 min |
-| 10 | 500 | 5 | 8 min | 4 min | 15 min | ~35 min |
-
-*Assumes 15% match rate and 6-second delay between cover letters*
-
 ### API Costs (Gemini 2.5 Flash)
 
-**Pricing**: $0.075 per 1M input tokens, $0.30 per 1M output tokens
-
-| Operation | Input Tokens | Output Tokens | Cost per Call |
-|-----------|-------------|---------------|---------------|
-| Classify 100 jobs | ~55k | ~2k | $0.0047 |
-| Generate cover letter | ~3k | ~500 | $0.0004 |
-
-**Total cost example (400 jobs, 60 matches):**
-- Classification: 4 batches × $0.0047 = $0.019
-- Cover letters: 60 × $0.0004 = $0.024
-- **Total: ~$0.043** (less than 5 cents per run!)
+**Pricing**: With the free plan you can do about 5 runs
 
 ## Contributing
 
@@ -574,6 +551,20 @@ Contributions are welcome! Areas for improvement:
 ## License
 
 MIT License - feel free to use and modify for your freelance journey!
+
+## Credits
+
+This project is a fork of [Upwork-Auto-Jobs-Applier-using-AI](https://github.com/AIXerum/Upwork-Auto-Jobs-Applier-using-AI) by [AIXerum](https://github.com/AIXerum).
+
+**Major enhancements in this fork:**
+- Multi-page scraping (5-10+ pages vs. original 1 page)
+- Intelligent batch classification to handle 250-500+ jobs
+- Timestamped folder organization (no more overwrites)
+- Enhanced progress tracking and logging
+- Improved file management with complete run history
+- Comprehensive documentation rewrite
+
+Original concept and foundation by AIXerum. Extended and optimized for large-scale job processing.
 
 ## Acknowledgments
 
