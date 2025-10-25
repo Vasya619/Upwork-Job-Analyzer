@@ -84,7 +84,7 @@ The system follows a **scrape-all-then-batch-classify** approach for optimal per
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    Upwork-Job-Analyzer WORKFLOW                     │
+│                    Upwork-Job-Analyzer WORKFLOW                 │
 └─────────────────────────────────────────────────────────────────┘
 
 📁 CREATE RUN FOLDER
@@ -111,7 +111,7 @@ The system follows a **scrape-all-then-batch-classify** approach for optimal per
    │   ├─► AI compares against freelancer profile
    │   ├─► Returns matched jobs with reasons
    │   └─► Progress: "Batch 2/4: 15 matches found"
-   ├─► Aggregate all matches (60 total matches)
+   ├─► Aggregate all matches (for example, 60 total matches)
    └─► Save to matched_jobs.txt with formatting
 
 ✍️ PHASE 3: COVER LETTER GENERATION
@@ -119,7 +119,7 @@ The system follows a **scrape-all-then-batch-classify** approach for optimal per
    ├─► For each of 60 matched jobs:
    │   ├─► Send job description to Gemini Writer Agent
    │   ├─► Generate personalized cover letter
-   │   ├─► Add metadata (Match #, title, link)
+   │   ├─► Add metadata header (COVER LETTERS BATCH - Generating 60 cover letters)
    │   ├─► Save to cover_letter.txt
    │   └─► Delay 6 seconds (rate limiting)
    └─► Complete: 60 cover letters generated
@@ -209,7 +209,7 @@ Upwork uses Cloudflare protection, which blocks standard Selenium. Our approach:
 
 1. **selenium-stealth**: Patches WebDriver to remove automation signatures
 2. **Custom user agent**: Mimics real browser behavior
-3. **Smart delays**: 5-15 second waits for challenge completion
+3. **Smart delays**: 5-15 second delay, for YOU to complete the challenge
 4. **Stealth settings**: Disables automation flags, fixes hairline rendering
 
 ```python
@@ -310,8 +310,8 @@ While the current system is production-ready, these enhancements could further i
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/AIXerum/Upwork-Auto-Jobs-Applier-using-AI.git
-   cd Upwork-Auto-Jobs-Applier-using-AI
+   git clone https://github.com/Vasya619/Upwork-Job-Analyzer
+   cd Upwork-Job-Analyzer
    ```
 
 2. **Create and activate a virtual environment:**
@@ -545,7 +545,7 @@ This project is a fork of [Upwork-Auto-Jobs-Applier-using-AI](https://github.com
 
 **Major enhancements in this fork:**
 - Multi-page scraping (5-10+ pages vs. original 1 page)
-- Full search page URL
+- Full search page URL (you need to customize)
 - Intelligent batch classification to handle 250-500+ jobs
 - Timestamped folder organization (no more overwrites)
 - Enhanced progress tracking and logging
@@ -564,4 +564,4 @@ Built with:
 
 ---
 
-**Happy freelancing! May your proposals be many and your matches be plenty. 🚀✨**
+**Good luck with finding a job...**

@@ -3,6 +3,7 @@ import os
 import time
 from datetime import datetime
 from langgraph.graph import END, StateGraph
+from langgraph.errors import GraphRecursionError
 from typing_extensions import TypedDict
 from typing import List
 from colorama import Fore, Style
@@ -429,9 +430,18 @@ class UpworkAutomationGraph:
         print(
             Fore.BLUE + "----- Running Upwork Jobs Automation -----\n" + Style.RESET_ALL
         )
-        # Increase recursion limit to handle processing multiple jobs
-        # Each job requires ~3 iterations (check -> generate -> save)
-        state = self.graph.invoke(
-            {"recursion_limit": 200}  # Allow up to ~66 jobs to be processed
-        )
+        try:
+            # Increase recursion limit to handle processing multiple jobs
+            # Each job requires ~3 iterations (check -> generate -> save)
+            state = self.graph.invoke(
+                {},  # Empty initial state
+                config={"recursion_limit": 200}  # Allow up to ~66 jobs to be processed
+            )
+        except GraphRecursionError as e:
+            print(Fore.RED +
+                f"Graph recursion limit reached: {e}\n"
+                "Consider increasing the recursion limit or reducing the number of jobs to process.\n"
+                + Style.RESET_ALL
+            )
+            state = {}
         return state
