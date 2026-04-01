@@ -2,7 +2,7 @@
 Node.js Full-stack dev
 
 ### Profile Overview:
-I create robust, data-driven websites and scalable backend services with a focus on clean, consistent logic. My commitment is to deliver my best work, integrating complex APIs (like Gemini and Tiingo) to solve your server-side problems effectively. I constantly improve my skills while developing my own website (ilmscore) which I already deployed.
+I create robust, data-driven websites and scalable backend services with a focus on clean, consistent logic. My commitment is to deliver my best work, integrating complex APIs (like Gemini and Tiingo) to solve your server-side problems effectively. I constantly improve my skills while developing my own website (ilmscore) which I already deployed. I also have a solid experience in React, using it to build clean and beatiful frontend (my Todo react app, for example). 
 
 My stack: Node.js, Express.js, and PostgreSQL
 
@@ -23,6 +23,7 @@ My stack: Node.js, Express.js, and PostgreSQL
 - Handlebars
 - ExpressJS
 - Git
+- React
 
 
 ### Projects:

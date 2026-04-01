@@ -148,7 +148,13 @@ class UpworkAutomationGraph:
             batch_str = json.dumps(batch, ensure_ascii=False, indent=2)
             
             # Invoke classifier on this batch
-            classify_result = self.classify_jobs_agent.invoke(batch_str)
+            time.sleep(5)  # Short pause to respect rate limits
+            try:
+                classify_result = self.classify_jobs_agent.invoke(batch_str)
+            except Exception as e:
+                print(Fore.RED + f"❌ Failed to classify batch {batch_idx + 1} after retries: {str(e)}")
+                print(Fore.YELLOW + "⏭️  Halting classification for remaining batches...\n" + Style.RESET_ALL)
+                break
             
             # Handle empty or invalid responses
             if not classify_result or classify_result.strip() == "":
@@ -229,15 +235,20 @@ class UpworkAutomationGraph:
         """
         print(Fore.YELLOW + "----- Generating cover letter -----\n" + Style.RESET_ALL)
         matches = state["matches"]
-        # Use the last match (LIFO) for processing
-        current_index = len(matches) - 1
+        # Use the first match (FIFO) for processing
+        current_index = 0
         current_match = matches[current_index]
         # Pass both the job description and the match metadata to the writer agent
         job_description = str(current_match.get("job", current_match))
         # Store current match metadata in state so save_cover_letter can reference it
         state = {**state, "current_match_index": current_index, "current_match": current_match}
 
-        cover_letter_result = self.generate_cover_letter_agent.invoke(job_description)
+        try:
+            cover_letter_result = self.generate_cover_letter_agent.invoke(job_description)
+        except Exception as e:
+            print(Fore.RED + f"❌ Failed to generate cover letter for match #{current_index + 1}: {str(e)}")
+            print(Fore.YELLOW + "⏭️  Using error placeholder and continuing...")
+            cover_letter_result = '{"letter": "[Error: Failed to generate cover letter due to API issues. Please try again later.]"}'
         
         # Clean the response - remove markdown code blocks if present
         cover_letter_result = cover_letter_result.strip()
@@ -309,9 +320,9 @@ class UpworkAutomationGraph:
 
             file.write(state["cover_letter"] + f'\n\n{"-"*70}\n')
 
-        # Remove already processed job and clear current match metadata
+        # Remove already processed job (first one) and clear current match metadata
         if "matches" in state and len(state["matches"]) > 0:
-            state["matches"].pop()
+            state["matches"].pop(0)  # Remove from the beginning (FIFO)
         state.pop("current_match", None)
         state.pop("current_match_index", None)
         return {**state, "matches": state.get("matches", [])}
@@ -386,18 +397,16 @@ class UpworkAutomationGraph:
         """
         Initialize agents for scraping jobs, classifying jobs, and generating cover letters.
         """
-        # Using Gemini model for its longer context length
-        # llama3 with Groq will hit the TPM limit and throw an error
+        # Use a single OpenRouter-backed model for both classification and writing.
         self.classify_jobs_agent = Agent(
             name="Job Classifier Agent",
-            model="gemini/gemini-2.5-flash",
+            model="openrouter/google/gemma-3-27b-it:free",
             system_prompt=classify_jobs_prompt.format(profile=self.profile),
             temperature=0.1,
         )
         self.generate_cover_letter_agent = Agent(
             name="Writer Agent",
-            # model="groq/llama-3.1-70b-versatile",
-            model="gemini/gemini-2.5-flash",
+            model="openrouter/google/gemma-3-27b-it:free",
             system_prompt=generate_cover_letter_prompt.format(profile=self.profile),
             temperature=0.1
         )
@@ -443,5 +452,13 @@ class UpworkAutomationGraph:
                 "Consider increasing the recursion limit or reducing the number of jobs to process.\n"
                 + Style.RESET_ALL
             )
+            state = {}
+        except KeyboardInterrupt:
+            print(Fore.YELLOW + "\n⚠️  Process interrupted during execution")
+            print(Fore.CYAN + "💾 Saving any completed work...")
+            print(Fore.GREEN + "✅ Partial results saved. You can resume later.\n" + Style.RESET_ALL)
+            state = {}
+        except Exception as e:
+            print(Fore.RED + f"❌ Unexpected error during execution: {str(e)}")
             state = {}
         return state

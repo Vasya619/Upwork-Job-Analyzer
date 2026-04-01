@@ -28,4 +28,4 @@ Thumbs.db
 debug_screenshot_*.png
 
 # Optional: Timestamped output folders (uncomment if you don't want to track them)
-# files/20*/
+files/20*/

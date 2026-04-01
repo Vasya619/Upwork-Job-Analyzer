@@ -23,7 +23,7 @@ Upwork-Job-Analyzer steps in as a game-changing solution to these challenges. It
 - **Customizable search criteria**: Define your own Upwork search URLs and filters
 
 ### 🤖 Intelligent Batch Classification
-- **AI-powered matching**: Uses Google Gemini 2.5 Flash to analyze job descriptions against your profile
+- **AI-powered matching**: Uses Gemma 3 27B to analyze job descriptions against your profile
 - **Scalable batch processing**: Splits large job lists (250+ jobs) into manageable batches (50-100 jobs each)
 - **Context-aware filtering**: Identifies jobs that match your skills, experience, and preferences
 - **Progress tracking**: Real-time feedback on classification progress (`Batch 3/5: 12 matches found`)
@@ -62,7 +62,7 @@ The system follows a **scrape-all-then-batch-classify** approach for optimal per
 
 2. **Batch Classification** (Phase 2)
    - Splits scraped jobs into batches (default 50-100 jobs per batch)
-   - Sends each batch to Gemini AI classifier
+   - Sends each batch to the Gemma 3 27B classifier
    - AI analyzes jobs against your freelancer profile
    - Aggregates matches from all batches
    - Saves matched jobs with detailed formatting and match reasons
@@ -107,7 +107,7 @@ The system follows a **scrape-all-then-batch-classify** approach for optimal per
    │
    ├─► Split 400 jobs into batches of 100
    ├─► For each batch (4 batches total):
-   │   ├─► Send batch to Gemini AI Classifier
+   │   ├─► Send batch to Gemma 3 27B Classifier
    │   ├─► AI compares against freelancer profile
    │   ├─► Returns matched jobs with reasons
    │   └─► Progress: "Batch 2/4: 15 matches found"
@@ -117,7 +117,7 @@ The system follows a **scrape-all-then-batch-classify** approach for optimal per
 ✍️ PHASE 3: COVER LETTER GENERATION
    │
    ├─► For each of 60 matched jobs:
-   │   ├─► Send job description to Gemini Writer Agent
+   │   ├─► Send job description to Gemma 3 27B Writer Agent
    │   ├─► Generate personalized cover letter
    │   ├─► Add metadata header (COVER LETTERS BATCH - Generating 60 cover letters)
    │   ├─► Save to cover_letter.txt
@@ -139,7 +139,7 @@ The system follows a **scrape-all-then-batch-classify** approach for optimal per
 | Component | Technology | Purpose |
 |-----------|-----------|---------|
 | **Workflow Engine** | LangGraph | Orchestrates multi-step workflow with precise control |
-| **AI Model** | Google Gemini 2.5 Flash | Classification and cover letter generation |
+| **AI Model** | Gemma 3 27B via OpenRouter | Classification and cover letter generation |
 | **LLM Gateway** | LiteLLM | Unified interface for multiple AI providers |
 | **Web Scraping** | Selenium + selenium-stealth | Cloudflare bypass and job extraction |
 | **File Management** | Python `os`, `json`, `datetime` | Timestamped folder organization |
@@ -173,8 +173,8 @@ LiteLLM standardizes calls to 100+ LLMs, allowing seamless switching between pro
 **Switch models instantly:**
 
 ```python
-# Option 1: Use Google Gemini (current default)
-model = "gemini/gemini-2.5-flash"
+# Option 1: Use Gemma 3 27B via OpenRouter (current default)
+model = "openrouter/google/gemma-3-27b-it:free"
 
 # Option 2: Use LLAMA3 with Groq
 model = "groq/llama3-70b-8192"
@@ -192,7 +192,7 @@ response = completion(
 
 ### **Why Batch Processing?**
 
-**Problem**: Gemini 2.5 Flash has a 1M token context window. While large, sending 400 jobs at once risks:
+**Problem**: Even with a large-context model, sending 400 jobs at once risks:
 - Exceeding token limits (400 jobs × 1000 tokens = 400k tokens + profile + prompt)
 - Longer processing times and higher chance of timeout
 - Difficulty debugging which jobs caused failures
@@ -301,7 +301,7 @@ While the current system is production-ready, these enhancements could further i
 - **Python 3.9+** (tested with Python 3.13)
 - **Chrome browser** (for Selenium WebDriver)
 - **API Keys**:
-  - Google Gemini API key (required) - [Get it here](https://ai.google.dev/)
+- OpenRouter API key (required, for Gemma 3 27B) - [Get it here](https://openrouter.ai/settings/keys)
   - Groq API key (optional, for Llama3) - [Get it here](https://console.groq.com/)
   - Tavily API key (optional, for research features) - [Get it here](https://tavily.com/)
 
@@ -337,7 +337,7 @@ While the current system is production-ready, these enhancements could further i
    Create a `.env` file in the root directory:
 
    ```env
-   GEMINI_API_KEY=your_gemini_api_key_here
+   OPENROUTER_API_KEY=your_openrouter_api_key_here
    GROQ_API_KEY=your_groq_api_key_here  # Optional
    TAVILY_API_KEY=your_tavily_api_key   # Optional
    ```
@@ -478,8 +478,8 @@ Edit `src/prompts.py` to customize:
 In `src/graph.py` (line ~365):
 
 ```python
-# Current: Google Gemini (recommended)
-model="gemini/gemini-2.5-flash"
+# Current: Gemma 3 27B via OpenRouter
+model="openrouter/google/gemma-3-27b-it:free"
 
 # Alternative: Llama 3 via Groq (faster, may need tuning)
 model="groq/llama3-70b-8192"
@@ -535,9 +535,9 @@ Upwork-Auto-Jobs-Applier-using-AI/
     └── utils.py                # Scraping and file utilities
 ```
 
-### API Costs (Gemini 2.5 Flash)
+### API Costs (Gemma 3 27B)
 
-**Pricing**: With the free plan you can do about 5 runs
+**Pricing**: Depends on your OpenRouter account and the routed provider pricing.
 
 ## Credits
 
@@ -560,7 +560,7 @@ Built with:
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Workflow orchestration
 - [LiteLLM](https://github.com/BerriAI/litellm) - Multi-model AI gateway
 - [Selenium](https://www.selenium.dev/) + [selenium-stealth](https://github.com/diprajpatra/selenium-stealth) - Web scraping
-- [Google Gemini](https://ai.google.dev/) - AI classification and generation
+- [OpenRouter](https://openrouter.ai/) - Routing for Gemma 3 27B inference
 
 ---
 

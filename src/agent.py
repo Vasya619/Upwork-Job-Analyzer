@@ -1,5 +1,8 @@
 from colorama import Fore, init
 from litellm import completion
+import litellm
+import time
+import random
 
 # Initialize colorama for colored terminal output
 init(autoreset=True)
@@ -24,16 +27,43 @@ class Agent:
         self.temperature = temperature
         self.system_prompt = system_prompt
 
-    def invoke(self, message):
+    def invoke(self, message, max_retries=3, base_delay=5):
+        """
+        @notice Invokes the AI agent with retry logic for API errors.
+        @param message The message to send to the agent.
+        @param max_retries Maximum number of retry attempts.
+        @param base_delay Base delay in seconds for exponential backoff.
+        @return The AI response content.
+        """
         print(Fore.GREEN + f"\nCalling Agent: {self.name}")
+        
         messages = [
             {"role": "system", "content": self.system_prompt},
             {"role": "user", "content": message}
         ]
-        response = completion(
-            model=self.model,
-            messages=messages,
-            temperature=self.temperature
-        )
-        return response.choices[0].message.content
+        
+        for attempt in range(max_retries + 1):
+            try:
+                response = completion(
+                    model=self.model,
+                    messages=messages,
+                    temperature=self.temperature
+                )
+                return response.choices[0].message.content
+                
+            except (litellm.InternalServerError, litellm.RateLimitError, litellm.APIError) as e:
+                if attempt == max_retries:
+                    print(Fore.RED + f"❌ Agent {self.name} failed after {max_retries + 1} attempts: {str(e)}")
+                    raise e
+                
+                # Calculate delay with exponential backoff and jitter
+                delay = base_delay * (2 ** attempt) + random.uniform(0, 1)
+                print(Fore.YELLOW + f"⚠️  Agent {self.name} attempt {attempt + 1} failed: {str(e)}")
+                print(Fore.CYAN + f"⏳ Retrying in {delay:.1f} seconds...")
+                time.sleep(delay)
+                
+            except Exception as e:
+                # For unexpected errors, don't retry
+                print(Fore.RED + f"❌ Unexpected error in Agent {self.name}: {str(e)}")
+                raise e
 
