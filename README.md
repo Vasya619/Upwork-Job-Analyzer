@@ -6,6 +6,8 @@ AI-powered tool that scrapes Upwork job listings, filters them against your free
 
 **Prerequisites:** Python 3.9+, Chrome browser, [LM Studio](https://lmstudio.ai/) with a model loaded and server running on port 1234.
 
+1. Run:
+
 ```bash
 git clone https://github.com/Vasya619/Upwork-Job-Analyzer
 cd Upwork-Job-Analyzer
@@ -13,9 +15,9 @@ python -m venv venv && venv\Scripts\activate   # Windows
 pip install -r requirements.txt
 ```
 
-1. Edit `files/profile.md` with your skills, experience, and writing style.
-2. Edit the `upwork_url` in `main.py` to match your desired search query.
-3. Run:
+2. Edit `files/profile.md` with your skills, experience, and writing style.
+3. Edit the `upwork_url` in `main.py` to match your desired search query.
+4. Run:
 
 ```bash
 python main.py
