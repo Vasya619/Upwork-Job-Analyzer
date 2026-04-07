@@ -1,4 +1,3 @@
-langgraph
 requests
 selenium
 webdriver_manager

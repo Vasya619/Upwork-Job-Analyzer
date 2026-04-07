@@ -13,7 +13,7 @@ def read_text_file(filename):
         lines = [line.strip() for line in lines if line.strip()]
         return "".join(lines)
 
-def scrape_upwork_data(upwork_url, pages):
+def scrape_upwork_data(base_url, number_of_jobs, pages):
     # Setup Chrome WebDriver with stealth options
     chrome_options = Options()
     chrome_options.add_argument('--disable-blink-features=AutomationControlled')
@@ -43,7 +43,9 @@ def scrape_upwork_data(upwork_url, pages):
         for page_num in pages:
             print(f"Scraping page {page_num}...")
             # Open Upwork job search page
-            driver.get(upwork_url)
+            sep = '&' if '?' in base_url else '?'
+            url = f'{base_url}{sep}per_page={number_of_jobs}&page={page_num}'
+            driver.get(url)
 
             # Wait for page to load and Cloudflare check
             time.sleep(5)
