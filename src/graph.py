@@ -11,6 +11,9 @@ from .agent import Agent
 from .utils import scrape_upwork_data, save_jobs_to_file
 from .prompts import classify_jobs_prompt, generate_cover_letter_prompt
 
+# Default model served by LM Studio (uses whatever model is loaded)
+LM_STUDIO_MODEL = os.environ.get("LM_STUDIO_MODEL", "local-model")
+
 
 ### Our graph state
 class GraphState(TypedDict):
@@ -23,7 +26,7 @@ class GraphState(TypedDict):
 
 
 class UpworkAutomationGraph:
-    def __init__(self, profile, num_jobs=50, num_pages=5, batch_size=50):
+    def __init__(self, profile, num_jobs=50, num_pages=5, batch_size=10, upwork_url='https://www.upwork.com/nx/search/jobs/'):
         # Freelancer profile/resume
         self.profile = profile
 
@@ -35,6 +38,9 @@ class UpworkAutomationGraph:
         
         # Batch size for classification (how many jobs to send to AI at once)
         self.batch_size = batch_size
+
+        # Upwork search url
+        self.upwork_url = upwork_url
 
         # Create timestamped folder for this run
         self.run_folder = self.create_run_folder()
@@ -88,7 +94,7 @@ class UpworkAutomationGraph:
         )
         
         # Scrape all pages in one go
-        job_listings = scrape_upwork_data(self.number_of_jobs, pages)
+        job_listings = scrape_upwork_data(self.number_of_jobs, pages, self.upwork_url)
 
         print(
             Fore.GREEN
@@ -148,7 +154,6 @@ class UpworkAutomationGraph:
             batch_str = json.dumps(batch, ensure_ascii=False, indent=2)
             
             # Invoke classifier on this batch
-            time.sleep(5)  # Short pause to respect rate limits
             try:
                 classify_result = self.classify_jobs_agent.invoke(batch_str)
             except Exception as e:
@@ -267,10 +272,6 @@ class UpworkAutomationGraph:
             print(Fore.RED + f"Raw response: {cover_letter_result[:500]}\n" + Style.RESET_ALL)
             # Use a default cover letter or skip
             cover_letter = f"[Error generating cover letter for: {job_description[:100]}...]"
-
-        # Respect a short pause between generating cover letters to avoid rate limits
-        # and to space out API calls / downstream processing.
-        time.sleep(6)
 
         return {
             **state,
@@ -397,18 +398,18 @@ class UpworkAutomationGraph:
         """
         Initialize agents for scraping jobs, classifying jobs, and generating cover letters.
         """
-        # Use a single OpenRouter-backed model for both classification and writing.
+        # Use local LM Studio model for both classification and cover letter writing.
         self.classify_jobs_agent = Agent(
             name="Job Classifier Agent",
-            model="openrouter/google/gemma-3-27b-it:free",
+            model=LM_STUDIO_MODEL,
             system_prompt=classify_jobs_prompt.format(profile=self.profile),
             temperature=0.1,
         )
         self.generate_cover_letter_agent = Agent(
             name="Writer Agent",
-            model="openrouter/google/gemma-3-27b-it:free",
+            model=LM_STUDIO_MODEL,
             system_prompt=generate_cover_letter_prompt.format(profile=self.profile),
-            temperature=0.1
+            temperature=0.3
         )
 
     def build_graph(self):

@@ -1,5 +1,5 @@
 langgraph
-litellm
+requests
 selenium
 webdriver_manager
 selenium-stealth
