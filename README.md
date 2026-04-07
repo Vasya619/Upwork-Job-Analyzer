@@ -13,7 +13,9 @@ python -m venv venv && venv\Scripts\activate   # Windows
 pip install -r requirements.txt
 ```
 
-Edit `files/profile.md` with your skills and experience, then:
+1. Edit `files/profile.md` with your skills, experience, and writing style.
+2. Edit the `upwork_url` in `main.py` to match your desired search query.
+3. Run:
 
 ```bash
 python main.py
@@ -64,7 +66,7 @@ Edit `src/prompts.py` to tweak:
 
 ## How It Works
 
-The tool uses a [LangGraph](https://github.com/langchain-ai/langgraph) workflow with three phases:
+The tool runs a simple three-phase pipeline:
 
 1. **Scrape** — Selenium with stealth mode opens Upwork, scrapes N pages of job listings, saves raw data.
 2. **Classify** — Jobs are split into small batches and sent to your local LLM. The model compares each job against your profile and returns matches with reasons.
@@ -82,7 +84,7 @@ Each run creates a new timestamped folder, so previous results are never overwri
 │   └── <timestamp>/     # Output folders per run
 └── src/
     ├── agent.py          # LM Studio API client
-    ├── graph.py          # LangGraph workflow
+    ├── graph.py          # Workflow pipeline
     ├── prompts.py        # AI prompts
     └── utils.py          # Scraping & file utilities
 ```
