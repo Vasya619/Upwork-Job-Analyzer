@@ -18,11 +18,12 @@ class Agent:
             via its OpenAI-compatible API.
     """
 
-    def __init__(self, name, model, system_prompt="", temperature=0.1):
+    def __init__(self, name, model, system_prompt="", temperature=0.1, enable_thinking=False):
         self.name = name
         self.model = model
         self.temperature = temperature
         self.system_prompt = system_prompt
+        self.enable_thinking = enable_thinking
         self.api_base = LM_STUDIO_API_BASE
 
     def invoke(self, message, max_retries=3, base_delay=3):
@@ -43,6 +44,11 @@ class Agent:
             ],
             "temperature": self.temperature,
             "stream": False,
+            "extra_body": {
+                "chat_template_kwargs": {
+                    "enable_thinking": self.enable_thinking,
+                }
+            }
         }
 
         url = f"{self.api_base}/chat/completions"

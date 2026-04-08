@@ -242,12 +242,14 @@ class UpworkAutomationGraph:
             model=LM_STUDIO_MODEL,
             system_prompt=classify_jobs_prompt.format(profile=self.profile),
             temperature=0.1,
+            enable_thinking=False,  # Disable thinking — classification doesn't benefit from it
         )
         self.generate_cover_letter_agent = Agent(
             name="Writer Agent",
             model=LM_STUDIO_MODEL,
             system_prompt=generate_cover_letter_prompt.format(profile=self.profile),
-            temperature=0.3
+            temperature=0.6,
+            enable_thinking=True,
         )
 
     def run(self):
